@@ -1,0 +1,170 @@
+/**
+ * Created by A6252532 on 20/11/2015.
+
+    Magic-Search style sheet
+
+ */
+
+/**
+ Main container : must be hidden
+ */
+#magic-search {
+    display: none;
+    margin: 10px;
+    width: 25%;
+    min-width: 250px;
+    max-width: 350px;
+    /* Font */
+    font: 13px Arial, Helvetica, sans-serif;
+    /* */
+    position:fixed;
+    top:1px;
+    float: top;
+    right:0;
+    z-index:9999;
+
+
+}
+
+/* the list composing the menu */
+#magic-search ul {
+    margin:0px 0px 6px 0px;
+    padding-right: 0px;
+    -webkit-padding-start: 0px;
+}
+
+/* list item style */
+#magic-search li {
+    list-style: none;
+    margin:0px 0px 2px 0px;
+}
+
+/* Each links anchors */
+#magic-search ul li a.menuItem  {
+    display:block;
+
+    background-color:#db0011;
+
+    border-left:6px solid red;
+    border-right:1px solid white;
+    border-top:1px solid white;
+    border-bottom:1px solid white;
+
+    text-decoration:none;
+    text-align: left;
+    color:#eee;
+
+    padding:8px 8px 5px 5px;
+
+    border-radius: 4px;
+    background-image:linear-gradient(red, #dd4323);
+
+    box-shadow: 2px 2px 2px #888888;
+}
+
+#magic-search ul li a.suggestedItem  {
+    display:block;
+
+    background-color:#db0011;
+
+    border-left:6px solid red;
+    border-right:1px solid white;
+    border-top:1px solid white;
+    border-bottom:1px solid white;
+
+    text-decoration:none;
+    text-align: left;
+    color:#eee;
+
+    padding:8px 8px 5px 5px;
+
+    border-radius: 4px;
+    background-image:linear-gradient(lightskyblue, #3399FF);
+
+    box-shadow: 2px 2px 2px #888888;
+}
+
+/* item */
+#magic-search ul li a:hover {
+    cursor: pointer;
+    background-color: white;
+
+    color:red;
+    border-left:6px solid red;
+    border-right:1px solid lightgray;
+    border-top:1px solid lightgray;
+    border-bottom:1px solid lightgray;
+    background-image:linear-gradient(white,#DDDDDD);
+
+    margin-left: -6px;
+    margin-right: 6px;
+}
+
+/* metasearch input */
+#magic-search ul li input {
+    margin: 0em;
+    font: 13px Arial;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+
+    border-radius: 4px;
+}
+
+/* Toggle Button */
+#closeButton {
+    position:relative;
+    float:right;
+    top:-1px;
+    display:block;
+    color: white;
+    background-color: red;
+    border:2px solid white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px #888888;
+
+    width:30px;
+    height:22px;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 1px;
+    font: 18px Arial, Helvetica, Consolas;
+    vertical-align: middle;
+}
+
+#closeButton:hover {
+    cursor: pointer;
+    /* background-color: white; */
+    /* color:red; */
+    /* border:2px solid red; */
+    /* click illusion */
+    top:0px;
+    right:-1px;
+    box-shadow: 0px 0px 1px #888888;
+}
+
+/**
+    Style of the magic-search div
+*/
+.magic-search {
+
+        background-color: white;
+        border:1px solid lightgray;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px #888888;
+
+}
+
+.clearable{
+  background: #fff url(http://i.stack.imgur.com/mJotv.gif) no-repeat right -10px center;
+  border-radius: 3px;
+  transition: background 0.4s;
+}
+.clearable.x  { background-position: right 5px center; } /* (jQ) Show icon */
+.clearable.onX{ cursor: pointer; }              /* (jQ) hover cursor style */
+.clearable::-ms-clear {display: none; width:0; height:0;} /* Remove IE default X */

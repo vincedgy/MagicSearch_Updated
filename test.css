@@ -1,0 +1,5921 @@
+.PSCHARTBORDER, .PSENDGRADIENTBACKGROUND, .PSHEADERTOOLBARFRAME, .PSIMAGE, .PSNOIMAGE, .PSPAGECONTAINER, .PSSTATICIMAGE, .PTPAGELET, .RESET {
+}
+
+.PSCHARTCOLOR0, .PSSTARTGRADIENT0 {
+    background-color: rgb(0, 0, 0);
+}
+
+.EOPP_SCCHILDINDENT {
+    background-color: rgb(0, 255, 0);
+}
+
+.PSCHARTCOLOR5 {
+    background-color: rgb(116, 209, 83);
+}
+
+.PSCHARTCOLOR15 {
+    background-color: rgb(132, 80, 217);
+}
+
+.PSCHARTCOLOR4 {
+    background-color: rgb(133, 133, 133);
+}
+
+.PTCALHEAD {
+    background-color: rgb(135, 180, 217);
+    height: 20px;
+}
+
+.PSSTARTGRADIENT2 {
+    background-color: rgb(149, 190, 201);
+}
+
+.PSCHARTCOLOR16 {
+    background-color: rgb(150, 32, 132);
+}
+
+.LEVEL1 {
+    background-color: rgb(153, 153, 102);
+}
+
+.PSSTARTGRADIENT3 {
+    background-color: rgb(158, 158, 158);
+}
+
+.PTCALWEEKHEAD {
+    background-color: rgb(160, 207, 236);
+    text-align: center;
+    padding: 1px;
+}
+
+.PSSTARTGRADIENT1 {
+    background-color: rgb(169, 183, 232);
+}
+
+.PTNAVSELPARENTEDGE {
+    background-color: rgb(170, 185, 211);
+}
+
+.PSCHARTCOLOR14 {
+    background-color: rgb(170, 217, 80);
+}
+
+.PSSTARTGRADIENT5 {
+    background-color: rgb(186, 232, 169);
+}
+
+.PSCHARTCOLOR6 {
+    background-color: rgb(192, 192, 192);
+}
+
+.PSSTARTGRADIENT15 {
+    background-color: rgb(194, 168, 236);
+}
+
+.PSSTARTGRADIENT4 {
+    background-color: rgb(194, 194, 194);
+}
+
+.PSHORIZONTALRULE {
+    background-color: rgb(198, 206, 210);
+    border-top-width: 1px;
+    border-left-width: 0px;
+    border-top-color: rgb(164, 172, 186);
+    border-top-style: solid;
+    height: 1px;
+}
+
+.PSSTARTGRADIENT16 {
+    background-color: rgb(203, 144, 194);
+}
+
+.PSCHARTCOLOR7 {
+    background-color: rgb(210, 100, 196);
+}
+
+.PTNAVBACKGROUND, .PTNAVSELCHILDEDGEDK {
+    background-color: rgb(211, 220, 232);
+}
+
+.EOPP_SCSECTIONCONTENTDARK, .EOPP_SCSECTIONFOLDERDARK {
+    background-color: rgb(211, 220, 232);
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-color: rgb(201, 203, 211);
+    border-right-color: rgb(201, 203, 211);
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PTGRIDROWSELECT {
+    background-color: rgb(212, 219, 217);
+}
+
+.PSSTARTGRADIENT14 {
+    background-color: rgb(213, 236, 168);
+}
+
+.PSSTARTGRADIENT6 {
+    background-color: rgb(224, 224, 224);
+}
+
+.PSCHARTCOLOR12, .PSSTARTGRADIENT12 {
+    background-color: rgb(226, 221, 74);
+}
+
+.PSCHARTCOLOR13 {
+    background-color: rgb(230, 131, 65);
+}
+
+.PSSTARTGRADIENT7 {
+    background-color: rgb(233, 178, 226);
+}
+
+.PSCHARTCOLOR10 {
+    background-color: rgb(233, 91, 91);
+}
+
+.PTNAVSELPARENTBK {
+    background-color: rgb(234, 239, 245);
+}
+
+.PSCHARTCOLOR8 {
+    background-color: rgb(242, 182, 96);
+}
+
+.PSSTARTGRADIENT13 {
+    background-color: rgb(243, 193, 160);
+}
+
+.PSSTARTGRADIENT10 {
+    background-color: rgb(244, 173, 173);
+}
+
+.PSSTARTGRADIENT8 {
+    background-color: rgb(249, 219, 176);
+}
+
+.PTGRIDROWMOUSEOVER {
+    background-color: rgb(249, 254, 203);
+}
+
+.PSCHARTCOLOR17 {
+    background-color: rgb(252, 217, 75);
+}
+
+.PSSTARTGRADIENT17 {
+    background-color: rgb(254, 236, 165);
+}
+
+.PSCHARTCOLOR9 {
+    background-color: rgb(255, 175, 175);
+}
+
+.PSSTARTGRADIENT9 {
+    background-color: rgb(255, 215, 215);
+}
+
+.PSGRIDROWSELECTED {
+    background-color: rgb(255, 247, 189);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-color: rgb(241, 217, 128);
+    border-bottom-color: rgb(241, 217, 128);
+    border-style: solid;
+}
+
+.PSFRAMECONFIRM {
+    background-color: rgb(255, 255, 204);
+}
+
+.PSFRAMECONFIRMWBO {
+    background-color: rgb(255, 255, 204);
+    border-width: 1px;
+    border-color: rgb(205, 205, 192);
+    border-style: solid;
+}
+
+.PSCHARTCOLOR11, .PSSTARTGRADIENT11, .PSSTARTGRADIENTBACKGROUND, .PTNAVSELCHILDEDGELT, .PTPOPUP_HEADER, .PTPOPUP_INNER {
+    background-color: rgb(255, 255, 255);
+}
+
+.EOPP_SCSECTIONCONTENT, .EOPP_SCSECTIONFOLDER {
+    background-color: rgb(255, 255, 255);
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-color: rgb(201, 203, 211);
+    border-right-color: rgb(201, 203, 211);
+    border-bottom-style: none;
+    border-right-style: none;
+}
+
+.EOPP_SCPAGEBORDER {
+    background-color: rgb(255, 255, 255);
+    padding-left: 0px;
+}
+
+.PSCHARTCOLOR2 {
+    background-color: rgb(43, 124, 146);
+}
+
+.PSCHARTCOLOR3 {
+    background-color: rgb(60, 60, 60);
+}
+
+.PSCHARTCOLOR1 {
+    background-color: rgb(83, 110, 209);
+}
+
+.LEVEL2, .LEVEL3 {
+    background-repeat: repeat-y;
+}
+
+.PSVERTICALGRIDLINES {
+    border-top-style: none;
+}
+
+.PSFRAMECONFIRMNBO, .PSFRAMENBO, .PSLEVEL1GRIDNBO, .PSLEVEL2GRIDNBO, .PSLEVEL3GRIDNBO {
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSRIGHTLEFTSCROLL {
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-style: solid;
+}
+
+.PSCHARTYAXIS {
+    border-top-width: thick;
+    border-top-color: rgb(0, 0, 0);
+    border-top-style: solid;
+}
+
+.PSCHARTXAXIS {
+    border-top-width: thin;
+    border-top-color: rgb(0, 0, 0);
+    border-top-style: solid;
+}
+
+.PSCHARTLINES, .PSHORIZONTALGRIDLINES {
+    border-top-width: thin;
+    border-top-color: rgb(133, 133, 133);
+    border-top-style: solid;
+}
+
+.PSTASKDEPENDENCYLINE {
+    border-top-width: thin;
+    border-top-color: rgb(83, 110, 209);
+    border-top-style: dashed;
+}
+
+.PSFRAME, .PSFRAMEWBO, .PSLEVEL3GRIDWBO {
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-style: solid;
+}
+
+.PSLEVEL1GRIDWBO, .PSLEVEL2GRIDWBO {
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PTSELECTBODY {
+    border-width: 1px;
+    border-color: rgb(204, 204, 204);
+    border-style: solid;
+}
+
+.MUTE {
+    color: rgb(153, 153, 153);
+}
+
+.HILEFT2 {
+    color: rgb(229, 229, 204);
+}
+
+.EDGE, .HILEFT1 {
+    color: rgb(255, 255, 255);
+}
+
+.PTNAVSELCHILDBK {
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 112, 188);
+}
+
+.PTGBLFILTERPIPE {
+    color: rgb(51, 51, 51);
+    vertical-align: baseline;
+    line-height: 100%;
+    padding-left: 5px;
+}
+
+.PSCHARTTITLE {
+    font-family: Arial, "Albany WT J", Verdana, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PSCHARTAXISTITLE {
+    font-family: Arial, "Albany WT J", Verdana, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+.PSAXISLABELS, .PSCHARTLEGEND {
+    font-family: Arial, "Albany WT J", Verdana, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(74, 74, 75);
+    text-transform: uppercase;
+}
+
+.PTCXMPAGELETHEADERBAK {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    color: rgb(0, 0, 139);
+    background-color: rgb(186, 208, 231);
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-style: solid;
+}
+
+.PTCXMPGLTHDRLINK {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    color: rgb(0, 48, 117);
+    text-decoration: underline;
+}
+
+.PTSELECTHEADER {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(115, 130, 181);
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-width: thin;
+    border-color: rgb(115, 130, 181);
+    border-style: solid;
+}
+
+.PTCXMPGLTHDRLINKHOVER {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    color: rgb(43, 124, 146);
+    text-decoration: underline;
+}
+
+.PTCXMPAGELETBODYBAK {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    margin-left: 0px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 2px;
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-style: solid;
+}
+
+.HEADERLINKACTIVE {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.PSTREELINK, .PSTREELINK:LINK, .PSTREELINK:VISITED {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.PTNAVLINKHOVER {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    color: rgb(0, 48, 117);
+    text-decoration: underline;
+    text-indent: 3px;
+}
+
+.HEADERLINK {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    color: rgb(255, 255, 255);
+    background-color: rgb(95, 110, 175);
+}
+
+.PTCXMADMINBAR {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    color: rgb(0, 48, 117);
+    line-height: 19px;
+    border-top-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 1px;
+    border-bottom-color: rgb(40, 66, 119);
+    border-right-color: rgb(40, 66, 119);
+    border-top-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-right-style: solid;
+}
+
+.PTCXMADMINLINK {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(0, 48, 117);
+    text-decoration: underline;
+    text-indent: 4px;
+}
+
+.PTPAGELETBODY {
+    font-family: Arial, Helvetica;
+    font-size: 10pt;
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-style: solid;
+}
+
+.PTFRAMEOBJECTHEADER {
+    font-family: Arial, Helvetica;
+    font-size: 10pt;
+    font-weight: normal;
+    color: rgb(52, 52, 52);
+    background-color: rgb(186, 208, 231);
+    vertical-align: top;
+    padding-left: 0px;
+    border-width: 1px;
+    border-color: rgb(230, 230, 230);
+    border-style: solid;
+    height: 24px;
+}
+
+.PTPAGELETHEADER {
+    font-family: Arial, Helvetica;
+    font-size: 10pt;
+    font-weight: normal;
+    color: rgb(52, 52, 52);
+    background-color: rgb(186, 208, 231);
+    vertical-align: top;
+    padding-left: 2px;
+    border-color: rgb(74, 89, 140);
+    height: 24px;
+}
+
+.PTNAVSEARCHLABEL {
+    font-family: Arial, Helvetica;
+    font-size: 8pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding-top: 3px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+}
+
+.PTNAVLINK, .PTNAVLINK:ACTIVE, .PTNAVLINK:VISITED {
+    font-family: Arial, Helvetica;
+    font-size: 9pt;
+    color: rgb(0, 48, 117);
+    text-decoration: underline;
+}
+
+.PSHYPERLINKHOVER, .PSHYPERLINK:HOVER, .PSHYPERLINKNOUL:HOVER, .PSHYPERLINKNOULBOLD:HOVER, .PSNAVPARENTLINK:HOVER, .PSRALEFTWIDGET:HOVER, .PSRARIGHTWIDGET:HOVER, .PSSRCHRESULTSEVENROW:HOVER, .PSSRCHRESULTSODDROW:HOVER, .PTNAVLINK:HOVER {
+    font-family: Arial, Helvetica;
+    font-size: 9pt;
+    color: rgb(219, 0, 17);
+    text-decoration: underline;
+    line-height: 100%;
+}
+
+.PTNAVSELCHILDLINK, .PTNAVSELPARENTLINK {
+    font-family: Arial, Helvetica;
+    font-size: 9pt;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.PSNAVPARENTLINK, .PSNAVPARENTLINK:VISITED {
+    font-family: Arial, Helvetica;
+    font-size: 9pt;
+    color: rgb(52, 52, 52);
+    text-decoration: none;
+}
+
+.PSHYPERLINKACTIVE, .PSHYPERLINK:ACTIVE, .PSHYPERLINKNOUL:ACTIVE, .PSHYPERLINKNOULBOLD:ACTIVE, .PSNAVPARENTLINK:ACTIVE, .PSRALEFTWIDGET:ACTIVE, .PSRARIGHTWIDGET:ACTIVE, .PSSRCHRESULTSEVENROW:ACTIVE, .PSSRCHRESULTSHYPERLINK:ACTIVE, .PSSRCHRESULTSODDROW:ACTIVE {
+    font-family: Arial, Helvetica;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(219, 0, 17);
+    line-height: 100%;
+}
+
+.PT_MCFGRAYTEXT {
+    font-family: Arial, Sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+}
+
+.PTBREADCRUMB {
+    font-family: Arial, helvetica, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(43, 124, 146);
+    text-decoration: underline;
+}
+
+.PTGBLFILTERLINKDISABLED, .PTGBLFILTERLINKDISABLED {
+    font-family: Arial, sans-serif,;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(102, 102, 153);
+    vertical-align: baseline;
+    line-height: 100%;
+    padding-right: 4px;
+    white-space: nowrap;
+}
+
+.PTGBLFILTERLINK {
+    font-family: Arial, sans-serif,;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(102, 102, 153);
+    vertical-align: baseline;
+    line-height: 100%;
+    white-space: nowrap;
+}
+
+.PSPAGECUST {
+    font-family: Arial, sans-serif;
+    background-color: rgb(221, 221, 221);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSPAGE {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0px;
+    margin-left: 2px;
+}
+
+.PSSRCHPAGE {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin-top: 1px;
+    margin-left: 6px;
+}
+
+.MID {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+}
+
+.PT_MCFTABLEHEADER1 {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(52, 52, 52);
+    background-color: rgb(186, 208, 231);
+    background-position: 640px;
+    text-align: left;
+}
+
+.PTSESRSLTRLTDINFO {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    color: rgb(28, 81, 128);
+    cursor: hand;
+}
+
+.PT_MCFROW {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PTSESRSLTEVENROW, .PTSESRSLTODDROW {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+.STRONG, .STRONGWRAP {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.PTSESCURPAGE {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding-left: 6px;
+}
+
+.PTFACETHDGNB {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    color: rgb(128, 128, 128);
+    text-decoration: none;
+    text-align: left;
+    width: 225px;
+    height: 30px;
+}
+
+.PTSESPAGENOLINK {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    color: rgb(178, 178, 178);
+    text-decoration: none;
+    padding-left: 6px;
+    cursor: hand;
+}
+
+.PTSESPAGELINK, .PTSESPAGENOLINK:HOVER {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    color: rgb(178, 178, 178);
+    text-decoration: underline;
+    padding-left: 6px;
+    cursor: hand;
+}
+
+.PSSRCHTITLE {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PTPAGENAVLINKDISABLED, .PTPAGENAVLINKDISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    vertical-align: baseline;
+    line-height: 100%;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.PTPAGENAVDOTLINK, .PTPAGENAVLINK, .PTPAGENAVDOTLINKDISABLED, .PTPAGENAVLINK:LINK, .PTPAGENAVLINK:VISITED {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(178, 178, 178);
+    text-decoration: none;
+    vertical-align: baseline;
+    line-height: 100%;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PTPAGENAVLINKHOVER, .PTPAGENAVLINK:HOVER {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(178, 178, 178);
+    text-decoration: underline;
+    vertical-align: baseline;
+    line-height: 100%;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSQRYTITLE {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(58, 90, 135);
+}
+
+.PSQRYSUBTITLE {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(58, 90, 135);
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+}
+
+.PTFACETCLEARALL {
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(102, 102, 153);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.PSSRCHSUBTITLE {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+}
+
+.PT_MCFHEADER {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(58, 90, 135);
+    vertical-align: bottom;
+    width: 640px;
+}
+
+.PTFACETBREADCRUMB {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(102, 102, 153);
+    text-decoration: none;
+    vertical-align: bottom;
+}
+
+.PTFACETBREADCRUMBU {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(102, 102, 153);
+    text-decoration: underline;
+    vertical-align: bottom;
+    cursor: pointer;
+}
+
+.PTGBLFILTERSBG {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(238, 238, 238);
+    text-decoration: none;
+    vertical-align: baseline;
+    line-height: 100%;
+    padding-top: 5px;
+    border-width: 1px;
+    border-color: rgb(228, 228, 228);
+    border-top-style: solid;
+    border-bottom-style: none;
+    border-left-style: solid;
+    border-right-style: solid;
+    white-space: nowrap;
+}
+
+.PTFACETBREADCRUMBTBL {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    color: rgb(238, 238, 238);
+    text-decoration: none;
+}
+
+.PSSRCHACTION, .PT_MCFPAGETITLE {
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PSPTABLABEL {
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(52, 52, 52);
+}
+
+.HSBC_FLOW_INACTIVE {
+    font-family: Arial, sans-serif;
+    font-size: 7pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(128, 128, 128);
+    line-height: 100%;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.HSBC_FLOW_ACTIVE {
+    font-family: Arial, sans-serif;
+    font-size: 7pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(219, 0, 17);
+    text-decoration: underline;
+    line-height: 100%;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PT_MCFCHATME {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.PSSRCHRESULTSHDRTXT, .PSSRCHRESULTSHDR:LINK, .PSSRCHRESULTSHDR:VISITED {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PT_MCFCHATTHEM, .PT_MCFCHATUS {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    color: rgb(0, 0, 204);
+}
+
+.PSLEVEL1GRIDCOLUMNHDR {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(211, 211, 211);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PSLEVEL1GRIDCOLUMNHDRTXT, .PSLEVEL2GRIDCOLUMNHDRTXT, .PSLEVEL1GRIDCOLUMNHDR:LINK, .PSLEVEL1GRIDCOLUMNHDR:VISITED, .PSLEVEL1GRIDCOLUMNHDRDISABLED, .PSLEVEL1SSGRIDCOLUMNHDR:LINK, .PSLEVEL1SSGRIDCOLUMNHDR:VISITED, .PSLEVEL1SSGRIDCOLUMNHDRDISABLED, .PSLEVEL2GRIDCOLUMNHDR:LINK, .PSLEVEL2GRIDCOLUMNHDR:VISITED, .PSLEVEL2GRIDCOLUMNHDRDISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSLEVEL2GRIDCOLUMNHDR {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-color: rgb(203, 203, 203);
+    border-bottom-color: rgb(255, 255, 255);
+    border-right-color: rgb(203, 203, 203);
+    border-top-style: none;
+    border-bottom-style: solid;
+    border-right-style: none;
+}
+
+.PSLEVEL3GRIDCOLUMNHDRTXT, .PSLEVEL3GRIDCOLUMNHDR:LINK, .PSLEVEL3GRIDCOLUMNHDR:VISITED, .PSLEVEL3GRIDCOLUMNHDRDISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    background-color: rgb(223, 231, 236);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSLEVEL3GRIDCOLUMNHDR {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    background-color: rgb(223, 231, 236);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-color: rgb(203, 203, 203);
+    border-bottom-color: rgb(203, 203, 203);
+    border-right-color: rgb(203, 203, 203);
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PSGRIDCOLUMNHDR {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    background-color: rgb(223, 231, 236);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+.PSLEVEL1SSGRIDCOLUMNHDRTXT {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    background-color: rgb(255, 255, 255);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSLEVEL1SSGRIDCOLUMNHDR {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    background-color: rgb(255, 255, 255);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 0px;
+    border-top-color: rgb(203, 203, 203);
+    border-bottom-color: rgb(203, 203, 203);
+    border-right-color: rgb(203, 203, 203);
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PSLEVEL1GRIDACTIVETAB, .PSLEVEL2GRIDACTIVETAB, .PSLEVEL3GRIDACTIVETAB {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    background-color: rgb(186, 208, 231);
+    text-align: center;
+}
+
+.PT_ELMEDITBOX {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: italic;
+    color: rgb(60, 60, 60);
+}
+
+.PT_MCFADDITIONALINSTRUCTIONS {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PSPUSHBUTTONTBPOPUP {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 109px;
+    height: 23px;
+}
+
+.PSPUSHBUTTONTBSAVE {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 110px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBNEXTTAB {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 117px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBCORRECTMODE {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 134px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBUPDATEALLMODE {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 143px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBVIEWWORKLIST {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 155px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBRETURN {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 156px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBNEXTINWORKLIST {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 159px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBPREVINWORKLIST {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 225px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBADDMODE {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 65px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBSENDNOTIFY {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 68px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBREFRESH {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 85px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBSPELLCHECK {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 16px;
+    width: 96px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBNEXTINLIST {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 18px;
+    width: 143px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBPREVINLIST {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 18px;
+    width: 158px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBUPDATEMODE {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 18px;
+    width: 161px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBPREVTAB {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 20px;
+    width: 126px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBADD {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    width: 65px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBCANCEL, .PSPUSHBUTTONTBCLEAR {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    width: 69px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBOK {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    width: 72px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBLOOKUP {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    width: 77px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBAPPLY {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    width: 79px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBSEARCH {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    width: 80px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTONTBDELETE {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    width: 82px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSHEADERHYPERLINK, .PSHEADERHYPERLINK:LINK, .PSHEADERHYPERLINK:ACTIVE, .PSHEADERHYPERLINK:VISITED, .PSHEADERHYPERLINK:HOVER, .PSLEVEL1GRIDLABEL:LINK, .PSLEVEL1GRIDLABEL:VISITED, .PSLEVEL1GRIDNAVIGATIONBAR:LINK, .PSLEVEL1GRIDNAVIGATIONBAR:ACTIVE, .PSLEVEL1SCROLLAREAFOOTER:LINK, .PSLEVEL1SCROLLAREAFOOTER:ACTIVE, .PSLEVEL1SCROLLAREAHEADER:LINK, .PSLEVEL2GRIDLABEL:LINK, .PSLEVEL2GRIDLABEL:ACTIVE, .PSLEVEL2GRIDLABEL:VISITED, .PSLEVEL2GRIDNAVIGATIONBAR:LINK, .PSLEVEL2GRIDNAVIGATIONBAR:ACTIVE, .PSLEVEL2SCROLLAREAFOOTER:LINK, .PSLEVEL2SCROLLAREAFOOTER:ACTIVE, .PSLEVEL2SCROLLAREAHEADER:LINK, .PSLEVEL2SCROLLAREAHEADER:ACTIVE, .PSLEVEL3GRIDLABEL:LINK, .PSLEVEL3GRIDLABEL:ACTIVE, .PSLEVEL3GRIDLABEL:VISITED, .PSLEVEL3GRIDNAVIGATIONBAR:LINK, .PSLEVEL3GRIDNAVIGATIONBAR:ACTIVE, .PSLEVEL3SCROLLAREAFOOTER:LINK, .PSLEVEL3SCROLLAREAFOOTER:ACTIVE, .PSLEVEL3SCROLLAREAHEADER:LINK, .PSLEVEL3SCROLLAREAHEADER:ACTIVE, .PT_MCFTABLEHEADER1:LINK, .PT_MCFTABLEHEADER1:ACTIVE, .PT_MCFTABLEHEADER1:VISITED {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    line-height: 100%;
+}
+
+.PSQRYHYPERLINK {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 48, 117);
+    text-decoration: underline;
+}
+
+.PSHEADERHYPERLINKTPNOUL, .PSHEADERHYPERLINKTPNOUL:LINK, .PSHEADERHYPERLINKTPNOUL:ACTIVE, .PSHEADERHYPERLINKTPNOUL:VISITED, .PSLEVEL1GRIDLABELTP:LINK, .PSLEVEL1GRIDLABELTP:ACTIVE, .PSLEVEL1GRIDLABELTP:VISITED {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    text-decoration: none;
+    line-height: 100%;
+}
+
+.PSHEADERHYPERLINKTP, .PSHEADERHYPERLINKTP:LINK, .PSHEADERHYPERLINKTP:ACTIVE, .PSHEADERHYPERLINKTP:VISITED, .PSHEADERHYPERLINKTP:HOVER, .PSHEADERHYPERLINKTPNOUL:HOVER, .PSLEVEL1GRIDLABELTP:HOVER, .PSLEVEL2GRIDLABELTP:LINK, .PSLEVEL2GRIDLABELTP:ACTIVE, .PSLEVEL2GRIDLABELTP:VISITED, .PSLEVEL3GRIDLABELTP:LINK, .PSLEVEL3GRIDLABELTP:ACTIVE, .PSLEVEL3GRIDLABELTP:VISITED {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    text-decoration: underline;
+    line-height: 100%;
+}
+
+.PSHEADERHYPERLINKD, .PSHEADERHYPERLINKDISABLED, .PSHEADERHYPERLINKTPDISABLED, .PSHEADERHYPERLINKTPNOULDISABLED, .PSLEVEL1GRIDLABELDISABLED, .PSLEVEL1GRIDLABELTPDISABLED, .PSLEVEL1GRIDNAVIGATIONBARDISABLED, .PSLEVEL1SCROLLAREAFOOTERDISABLED, .PSLEVEL1SCROLLAREAHEADERDISABLED, .PSLEVEL2GRIDLABELDISABLED, .PSLEVEL2GRIDLABELTPDISABLED, .PSLEVEL2GRIDNAVIGATIONBARDISABLED, .PSLEVEL2SCROLLAREAFOOTERDISABLED, .PSLEVEL2SCROLLAREAHEADERDISABLED, .PSLEVEL3GRIDLABELDISABLED, .PSLEVEL3GRIDLABELTPDISABLED, .PSLEVEL3GRIDNAVIGATIONBARDISABLED, .PSLEVEL3SCROLLAREAFOOTERDISABLED, .PSLEVEL3SCROLLAREAHEADERDISABLED, .PT_MCFTABLEHEADER1DISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(51, 51, 51);
+    line-height: 100%;
+}
+
+.PSLEVEL1GRIDINACTIVETABHOVER, .PSLEVEL2GRIDINACTIVETABHOVER, .PSLEVEL3GRIDINACTIVETABHOVER, .PSLEVEL1GRIDINACTIVETAB:HOVER, .PSLEVEL2GRIDINACTIVETAB:HOVER, .PSLEVEL3GRIDINACTIVETAB:HOVER {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(62, 85, 118);
+    background-color: rgb(235, 235, 234);
+}
+
+.PSLEVEL1GRIDINACTIVETAB, .PSLEVEL2GRIDINACTIVETAB, .PSLEVEL3GRIDINACTIVETAB {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(62, 85, 118);
+    background-color: rgb(235, 235, 234);
+    text-decoration: none;
+}
+
+.PSQRYHYPERLINKD {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(99, 106, 118);
+}
+
+.SMALL {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+}
+
+.KNOCKOUT {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    color: rgb(0, 0, 255);
+}
+
+.PTGBLFILTERS {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    color: rgb(102, 102, 153);
+    white-space: nowrap;
+}
+
+.PSGRIDCOLUMNHDRSORTNONED, .PSGRIDCOLUMNHDRSORTNONEDISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: rgb(177, 211, 250);
+    border-right-width: 1px;
+    border-right-color: rgb(255, 255, 255);
+}
+
+.PTBREADCRUMBCUR {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.PSGRIDCOLUMNHDRSORTNONE {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    color: rgb(0, 0, 255);
+    background-color: rgb(177, 211, 250);
+    text-decoration: underline;
+    border-right-width: 1px;
+    border-right-color: rgb(255, 255, 255);
+}
+
+.PSGRIDCOLUMNHDRSORTED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    color: rgb(0, 0, 255);
+    background-color: rgb(221, 233, 247);
+    text-decoration: underline;
+    border-right-width: 1px;
+    border-right-color: rgb(255, 255, 255);
+}
+
+.PTFACETNAME {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+}
+
+.PTGBLFACETNAME {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+    margin-left: -26px;
+    white-space: nowrap;
+}
+
+.PSTREETEXTRED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.PT_MCFGROUPBOX {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    background-color: rgb(234, 239, 245);
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-style: solid;
+}
+
+.PSGROUPBOXNBO {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSSRCHGROUPBOXWBO {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-style: solid;
+}
+
+.PSGROUPBOX, .PSGROUPBOXWBO {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSDROPDOWNLABEL, .PSLONGEDITLABEL, .PSSRCHCHECKBOX, .PSSRCHDROPDOWNLABEL, .PSSRCHEDITBOXLABEL, .PSTREETEXT, .PT_MCFLABEL {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PSSRCHRESULTSHDR {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(211, 211, 211);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-color: rgb(203, 203, 203);
+    border-bottom-color: rgb(255, 255, 255);
+    border-right-color: rgb(203, 203, 203);
+    border-top-style: none;
+    border-bottom-style: solid;
+    border-right-style: none;
+}
+
+.PT_MCFTABLE {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(217, 229, 239);
+    background-repeat: no-repeat;
+}
+
+.PSLEVEL1SCROLLAREAHEADER {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-indent: 1px;
+}
+
+.PSLEVEL1GRIDLABEL, .PSLEVEL1GRIDLABELTP, .PSLEVEL2GRIDLABEL {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-indent: 1px;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSGROUPBOXLABEL {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-indent: 1px;
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    height: 17px;
+}
+
+.PSSRCHGROUPBOXLABEL {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-indent: 1px;
+    border-width: 1px;
+    border-color: rgb(40, 66, 119);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSLEVEL2SCROLLAREAFOOTER, .PSLEVEL3SCROLLAREAFOOTER {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgb(127, 160, 193);
+    border-top-style: none;
+    border-bottom-style: none;
+}
+
+.PSLEVEL2SCROLLAREAHEADER, .PSLEVEL3SCROLLAREAHEADER {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgb(127, 160, 193);
+    text-indent: 1px;
+}
+
+.PSLEVEL3GRIDLABEL {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgb(127, 160, 193);
+    text-indent: 1px;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSLEVEL1SCROLLAREAFOOTER {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    border-top-style: none;
+    border-bottom-style: none;
+}
+
+.PSQRYRESULTSHDR {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(46, 85, 140);
+    background-color: rgb(237, 246, 255);
+}
+
+.PSHYPERLINKNOULBOLD, .PSHYPERLINKNOULBOLD:LINK, .PSHYPERLINKNOULBOLD:VISITED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    text-decoration: none;
+    line-height: 100%;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSLEVEL2GRIDLABELTP, .PSLEVEL3GRIDLABELTP {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(51, 102, 153);
+    text-indent: 1px;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PT_MCFTABLEHEADER {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(58, 90, 135);
+    background-color: rgb(186, 208, 231);
+}
+
+.PSCHECKBOX, .PSEDITBOXLABEL, .PSRADIOBUTTON, .PT_MCFCHECKBOX {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+}
+
+.PSACTIVETAB {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    background-color: rgb(186, 208, 231);
+}
+
+.PT_MCFCHATSYSMSG {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+}
+
+.PTFACETNOLINK {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(153, 153, 153);
+    text-decoration: none;
+    text-align: left;
+    display: block;
+    list-style-type: none;
+}
+
+.PSERRORTEXT {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(237, 28, 36);
+}
+
+.PTFACET {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(28, 81, 128);
+    text-decoration: none;
+    text-align: left;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.PTFACETLINK, .PTFACET:HOVER {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(28, 81, 128);
+    text-decoration: underline;
+    display: block;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.PTMENULINK {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(43, 124, 146);
+    text-decoration: none;
+}
+
+.PSTREENODESELECTED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: italic;
+    color: rgb(204, 0, 51);
+    background-color: rgb(192, 192, 192);
+}
+
+.PSTREELINKSELECTED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: italic;
+    color: rgb(204, 0, 51);
+    background-color: rgb(192, 192, 192);
+    text-decoration: none;
+}
+
+.PSDROPDOWNLIST, .PSLONGEDITBOX, .PSSRCHTIPS, .PSTEXT, .PSQRYTIPS, .PT_MCFCHECKBOXLABEL {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PSLEVEL1GRIDODDROW, .PSLEVEL2GRIDODDROW, .PSSRCHRESULTSODDROW {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(230, 230, 230);
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PSLEVEL1GRIDEVENROW, .PSLEVEL2GRIDEVENROW, .PSSRCHRESULTSEVENROW {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(243, 243, 243);
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PSPUSHBUTTONTBREFRESH2 {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    background-repeat: no-repeat;
+    background-position: 2% 40%;
+    padding-left: 0px;
+    width: 70px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSPUSHBUTTON {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    cursor: hand;
+}
+
+.PSPUSHBUTTONRETURN, .PSPUSHBUTTONTBABORT, .PSPUSHBUTTONTBCONTINUE, .PSPUSHBUTTONTBIGNORE, .PSPUSHBUTTONTBNO, .PSPUSHBUTTONTBPREVIEW, .PSPUSHBUTTONTBRETRY, .PSPUSHBUTTONTBYES {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 252, 181);
+    width: 70px;
+    height: 23px;
+    cursor: hand;
+}
+
+.PSTREELINKYELLOWBACKGR {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 0);
+    text-decoration: none;
+}
+
+.PSLEVEL1GRIDNAVIGATIONBAR, .PSLEVEL2GRIDNAVIGATIONBAR, .PSLEVEL3GRIDNAVIGATIONBAR {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.HSBC_SEARCH_FILTER_EVEN_ROW, .HSBC_SEARCH_FILTER_ODD_ROW {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PSSRCHRESULTSWBO {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-left-width: 1px;
+    border-left-color: rgb(203, 203, 203);
+    border-left-style: none;
+}
+
+.PSDROPDOWNLIST_DISPONLY, .PSEDITBOX_DISPONLY {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSEDITBOX_DISPONLY_NOWRAP {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    white-space: nowrap;
+}
+
+.PSLEVEL1GRID, .PSSRCHRESULTSTITLE {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PT_MCFSPVSRTABLE {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-color: rgb(201, 203, 211);
+    border-style: solid;
+}
+
+.PSEDITBOX {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-top-color: rgb(153, 153, 153);
+    border-bottom-color: rgb(204, 204, 204);
+    border-left-color: rgb(153, 153, 153);
+    border-right-color: rgb(204, 204, 204);
+    border-style: solid;
+}
+
+.PSHYPERLINKVISITED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    line-height: 100%;
+}
+
+.PSHYPERLINK, .PSHYPERLINK:LINK, .PSHYPERLINK:VISITED, .PSHYPERLINKNOUL:LINK, .PSHYPERLINKNOUL:VISITED, .PSRALEFTWIDGET:LINK, .PSRALEFTWIDGET:VISITED, .PSRARIGHTWIDGET:LINK, .PSRARIGHTWIDGET:VISITED, .PSSRCHRESULTSEVENROW:LINK, .PSSRCHRESULTSEVENROW:VISITED, .PSSRCHRESULTSODDROW:LINK, .PSSRCHRESULTSODDROW:VISITED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    line-height: 100%;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSHYPERLINKNOUL {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    line-height: 100%;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSSRCHRESULTSHYPERLINK, .PSSRCHRESULTSHYPERLINK:LINK {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    line-height: 100%;
+}
+
+.PSTREELINKACTIVE, .PSTREELINK:ACTIVE, .PSTREELINK:HOVER {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 187);
+    text-decoration: underline;
+}
+
+.PSDISABLED, .PSEDITBOX_DISABLED, .PSEDITBOXDISABLED, .PSEDITBOX_DISPONLYDISABLED, .PSEDITBOX_DISPONLY_NOWRAPDISABLED, .PSLONGEDITBOXDISABLED, .PSMULTILANGDISABLED, .PSPUSHBUTTONDISABLEDDISABLED, .PSRADIOBUTTONDISABLED, .PSSRCHCHECKBOXDISABLED, .PSSRCHSUBTITLEDISABLED, .PSTREENODESELECTEDDISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(120, 120, 120);
+}
+
+.PSDROPDOWNLIST_DISABLED, .PSDROPDOWNLISTDISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(120, 120, 120);
+    border-width: 1px;
+    border-color: rgb(204, 204, 204);
+    border-style: solid;
+}
+
+.PSPUSHBUTTONDISABLED, .PSPUSHBUTTONDISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(133, 133, 133);
+    background-color: rgb(204, 204, 204);
+}
+
+.PTSPELLCHECKERROR {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.PSHYPERLINKYELLOWBKGRD {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(43, 124, 146);
+    background-color: rgb(255, 255, 0);
+}
+
+.PSQRYRESULTSTITLE {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(52, 52, 52);
+    background-color: rgb(255, 255, 255);
+}
+
+.PSLEVEL1GRIDROW, .PSLEVEL2GRIDROW, .PSLEVEL3GRIDROW, .PSSRCHINSTRUCTIONS, .PSSRCHRESULTSFOOTER, .PSQRYINSTRUCTIONS, .PSQRYRESULTSFOOTER, .PT_MCFDROPDOWNLIST, .PT_MCFEDITBOX {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+}
+
+.PSMULTILANG {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    background-color: rgb(204, 255, 204);
+}
+
+.PSQRYRESULTSODDROW {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    background-color: rgb(242, 242, 245);
+}
+
+.PSLEVEL3GRIDODDROW {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    background-color: rgb(247, 247, 247);
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-color: rgb(203, 203, 203);
+    border-right-color: rgb(203, 203, 203);
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PSERROR {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    background-color: rgb(255, 102, 102);
+}
+
+.PSQRYRESULTSEVENROW {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    background-color: rgb(255, 255, 255);
+}
+
+.PSLEVEL3GRIDEVENROW {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    background-color: rgb(255, 255, 255);
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-color: rgb(203, 203, 203);
+    border-right-color: rgb(203, 203, 203);
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PSLEVEL2GRID, .PSLEVEL3GRID {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-style: solid;
+}
+
+.PSHYPERLINKDISABLED, .PSHYPERLINKDISABLED, .PSHYPERLINKNOULDISABLED, .PSHYPERLINKNOULBOLDDISABLED, .PSSRCHRESULTSEVENROWDISABLED, .PSSRCHRESULTSODDROWDISABLED {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    line-height: 100%;
+}
+
+.PSLEVEL1SSGRIDROW {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(60, 60, 60);
+    line-height: 15px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(203, 203, 203);
+    border-bottom-style: solid;
+    height: 40px;
+}
+
+.PSINACTIVETABHOVER, .PSINACTIVETAB:HOVER {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(62, 85, 118);
+    background-color: rgb(235, 235, 234);
+}
+
+.PSINACTIVETAB {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(62, 85, 118);
+    background-color: rgb(235, 235, 234);
+    text-decoration: none;
+}
+
+.PSSRCHRESULTSHYPERLINKD {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(99, 106, 118);
+    line-height: 100%;
+}
+
+.PT_MCFPUSHBUTTON {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    background-color: rgb(252, 252, 181);
+}
+
+.PT_MCFTRACEREVENT {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PT_MCFTRACERREQ {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    color: rgb(0, 0, 139);
+}
+
+.PT_MCFEVTNAME {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    color: rgb(58, 90, 135);
+}
+
+.PT_MCFEVTVALUE {
+    font-family: Arial, sans-serif;
+    font-size: 9pt;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    color: rgb(60, 60, 60);
+}
+
+.PSTLEFTMENU {
+    font-family: Arial;
+    color: rgb(0, 0, 0);
+    background-color: rgb(204, 204, 153);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+}
+
+.PTSESRSLTTITLEHOVER {
+    font-family: Arial;
+    font-size: 10pt;
+    font-weight: bold;
+    color: rgb(43, 78, 126);
+    text-decoration: underline;
+}
+
+.PTPOPUP_TITLE {
+    font-family: Arial;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.PTSESRSLTTITLE {
+    font-family: Arial;
+    font-size: 10pt;
+    font-weight: normal;
+    color: rgb(28, 81, 128);
+    text-decoration: underline;
+    cursor: hand;
+}
+
+.PTSESRSLTRLTDINFODIV {
+    font-family: Arial;
+    font-size: 10pt;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.PTFACETHDG {
+    font-family: Arial;
+    font-size: 11pt;
+    font-weight: bold;
+    color: rgb(128, 128, 128);
+    background-color: rgb(238, 238, 238);
+    text-decoration: none;
+    text-align: left;
+    width: 225px;
+}
+
+.PTGBLFACETHDG {
+    font-family: Arial;
+    font-size: 11pt;
+    font-weight: bold;
+    color: rgb(128, 128, 128);
+    text-decoration: none;
+    margin-left: 26px;
+    white-space: nowrap;
+}
+
+.PSCONFIRMTEXT {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    color: rgb(128, 128, 128);
+}
+
+.PTSRCHKEY, .PTSRCHKEYDISABLED {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    color: rgb(128, 128, 128);
+    padding-left: 5px;
+}
+
+.PTSRCHRSLTLABEL, .PTSRCHRSLTLABELDISABLED {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    color: rgb(58, 90, 135);
+}
+
+.EOPP_SCPAGETITLESECTION {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.PASSTRANSACTIONTITLE {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(219, 0, 17);
+    border-bottom-width: 2px;
+    border-bottom-color: rgb(51, 51, 153);
+    border-bottom-style: none;
+    width: 100%;
+}
+
+.PASSMOBAPPLABEL {
+    font-family: Arial;
+    font-size: 14pt;
+    font-weight: bold;
+    color: rgb(51, 51, 51);
+}
+
+.PSGRIDCOUNTER {
+    font-family: Arial;
+    font-size: 8pt;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.EOPP_SCMORELINK {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(219, 0, 17);
+    text-decoration: underline;
+}
+
+.PSGRIDCOUNTERTP, .PTSESRSLTSUMMARY {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.PTSESSRCHINSTRRSLTS {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: normal;
+    color: rgb(128, 128, 128);
+    text-decoration: none;
+    margin-right: 2px;
+}
+
+.PTSESRSLTDTTM {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: normal;
+    color: rgb(166, 166, 166);
+    text-decoration: none;
+}
+
+.PTSESSRCHINSTR {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: normal;
+    color: rgb(60, 60, 60);
+    text-decoration: none;
+}
+
+.EOPP_SCPAGEDESCRSECTION {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.EOPP_SCBREADCRUMBSECTION {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    vertical-align: top;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 19px;
+}
+
+.EOPP_SCCHILDCONTENTLINK, .EOPP_SCCHILDFOLDERLINK {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+.EOPP_SCADDITIONALTEXT {
+    font-family: Arial;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(51, 51, 51);
+}
+
+.PTCALMONTH {
+    font-family: Arial;
+    font-size: 9pt;
+    color: rgb(81, 81, 81);
+    border-width: 1px;
+    border-color: rgb(187, 187, 187);
+    border-style: solid;
+}
+
+.EOPP_SCSECTIONCONTENTLINK, .EOPP_SCSECTIONFOLDERLINK {
+    font-family: Arial;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+.PTGBLFACETNOLINK {
+    font-family: Arial;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(153, 153, 153);
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.PTGBLFACET {
+    font-family: Arial;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(28, 81, 128);
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.PTGBLFACETHOVER, .PTGBLFACET:HOVER {
+    font-family: Arial;
+    font-size: 9pt;
+    font-weight: normal;
+    color: rgb(28, 81, 128);
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+.PSPSMALLTEXT {
+    font-family: Arial;
+    font-size: 9px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+
+.PSPROCESSING {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(51, 51, 51);
+    padding-left: 5px;
+    padding-right: 10px;
+    white-space: nowrap;
+}
+
+.PSGRIDTOOLBAR {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(241, 244, 248);
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-color: rgb(212, 224, 240);
+    border-bottom-color: rgb(208, 208, 200);
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSCHARTFOOTNOTE, .PSCHARTSUBTITLE {
+    font-family: sans-serif, Arial, "Albany WT J", Verdana, Helvetica;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PSCHARTGANTTGRID {
+    font-size: 10pt;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+}
+
+.PSCHARTDEFAULT {
+    font-size: 8pt;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.PTNAVSELFOLDERBK {
+    font-size: 9pt;
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 112, 188);
+}
+
+.HSBC_SEARCH_FILTER_SELECTED {
+    font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgb(243, 186, 190);
+    text-decoration: underline;
+    line-height: 100%;
+}
+
+.PSBOTTOMLINE, .PSGRIDBOTTOMLINE {
+    height: 4px;
+}
+
+.PTBREADCRUMBMARGIN {
+    margin-left: 6px;
+}
+
+.PSQRYTABLELEFTBORDER {
+    margin: 1px;
+    border-left-width: 1px;
+    border-left-style: solid;
+}
+
+.PSLEVEL1SCROLLAREABODYNBO, .PSLEVEL2SCROLLAREABODYNBO, .PSLEVEL3SCROLLAREABODYNBO {
+    margin: 1px;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PSLEVEL2SCROLLAREABODY, .PSLEVEL2SCROLLAREABODYWBO, .PSLEVEL3SCROLLAREABODY, .PSLEVEL3SCROLLAREABODYWBO {
+    margin: 1px;
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-style: solid;
+}
+
+.PSLEVEL1SCROLLAREABODY, .PSLEVEL1SCROLLAREABODYWBO {
+    margin: 1px;
+    border-width: 1px;
+    border-color: rgb(163, 190, 216);
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.PTTRANSPARENT {
+    position: Absolute;
+}
+
+.PSRALEFTWIDGET, .PSRARIGHTWIDGET {
+    text-decoration: none;
+}
+
+.arrow-right, .slider-state-active, .slider-state-selected, .slider-state-inactive, .maximize-disabled, .minimize-disabled, .maximize-enabled, .minimize-enabled, .icon-camera, .icon-folder, .close-disabled, .close-enabled, .left-round-button-normal, .right-round-button-normal, .left-round-button-active, .right-round-button-active, .left-round-button-red, .right-round-button-red, .up-round-button-normal, .up-round-button-active, .up-round-button-red, .down-round-button-normal, .down-round-button-active, .down-round-button-red, .button-cam-normal, .button-cam-active, .grey-down-arrow, .search-glass, .icon-small-letter, .icon-small-speaker, .icon-small-cam, .icon-small-feed, .grey-call, .arrow-up, .arrow-down, .hsbc-logo, .now-logo, .popup-close, .popup-close-active, .right-button-search-normal, .right-button-search-active, .right-button-search-inactive, .warning, .warning-grey, .grey-right-arrow, .grey-down-arrow, .maximise-win-inactive, .maximise-win-active {
+    background-image: url(/cs/ps/cache/VEN_HSBC_DEFAULT_FRA_1.GIF);
+}
+
+.maximise-win-inactive {
+    background-position: 0px -581px;
+    width: 25px;
+    height: 33px;
+}
+
+.maximise-win-active {
+    background-position: -32px -581px;
+    width: 25px;
+    height: 33px;
+}
+
+.arrow-right {
+    background-position: 0px 0px;
+    width: 10px;
+    height: 6px;
+}
+
+.slider-state-active, .slider-state-selected {
+    background-position: -100px 0px;
+    width: 12px;
+    height: 12px;
+}
+
+.slider-state-inactive {
+    background-position: -100 -25px;
+    width: 12px;
+    height: 12px;
+}
+
+.maximize-disabled {
+    background-position: -150px -25px;
+    width: 16px;
+    height: 15px;
+}
+
+.minimize-disabled {
+    background-position: -175px -25px;
+    width: 16px;
+    height: 15px;
+}
+
+.maximize-enabled {
+    background-position: -150px -44px;
+    width: 16px;
+    height: 15px;
+}
+
+.minimize-enabled {
+    background-position: -175px -44px;
+    width: 16px;
+    height: 15px;
+}
+
+.icon-camera {
+    background-position: -48px 0px;
+    width: 13px;
+    height: 7px;
+}
+
+.icon-folder {
+    background-position: -21px 0px;
+    width: 13px;
+    height: 11px;
+}
+
+.close-disabled {
+    background-position: -125px 0px;
+    width: 8px;
+    height: 8px;
+}
+
+.close-enabled {
+    background-position: -125px -13px;
+    width: 8px;
+    height: 8px;
+}
+
+.left-round-button-normal {
+    background-position: -210px -180px;
+    width: 26px;
+    height: 26px;
+}
+
+.right-round-button-normal {
+    background-position: -210px -209px;
+    width: 26px;
+    height: 26px;
+}
+
+.left-round-button-active {
+    background-position: -238px -180px;
+    width: 26px;
+    height: 26px;
+}
+
+.right-round-button-active {
+    background-position: -238px -209px;
+    width: 26px;
+    height: 26px;
+}
+
+.left-round-button-red {
+    background-position: -267px -180px;
+    width: 26px;
+    height: 26px;
+}
+
+.right-round-button-red {
+    background-position: -267px -209px;
+    width: 26px;
+    height: 26px;
+}
+
+.up-round-button-normal {
+    background-position: -210px -116px;
+    width: 26px;
+    height: 26px;
+}
+
+.up-round-button-active {
+    background-position: -238px -116px;
+    width: 26px;
+    height: 26px;
+}
+
+.up-round-button-red {
+    background-position: -267px -116px;
+    width: 26px;
+    height: 26px;
+}
+
+.down-round-button-normal {
+    background-position: -210px -145px;
+    width: 26px;
+    height: 26px;
+}
+
+.down-round-button-active {
+    background-position: -238px -145px;
+    width: 26px;
+    height: 26px;
+}
+
+.down-round-button-red {
+    background-position: -267px -145px;
+    width: 26px;
+    height: 26px;
+}
+
+.button-cam-normal {
+    background-position: 0px -80px;
+    width: 30px;
+    height: 33px;
+}
+
+.button-cam-active {
+    background-position: 0px -145px;
+    width: 30px;
+    height: 33px
+}
+
+.grey-down-arrow {
+    background-position: 0px -280px;
+    width: 22px;
+    height: 22px;
+}
+
+.search-glass {
+    background-position: -204px -30px;
+    width: 13px;
+    height: 13px;
+}
+
+.icon-small-letter {
+    background-position: -297px -15px;
+    width: 12px;
+    height: 9px;
+}
+
+.icon-small-speaker {
+    background-position: -297px -39px;
+    width: 12px;
+    height: 9px;
+}
+
+.icon-small-cam {
+    background-position: -297px -61px;
+    width: 13px;
+    height: 9px;
+}
+
+.icon-small-feed {
+    background-position: -297px -84px;
+    width: 9px;
+    height: 9px;
+}
+
+.grey-call {
+    background-position: -318px -704px;
+    width: 22px;
+    height: 22px;
+}
+
+.arrow-up {
+    background-position: -337px 0px;
+    width: 10px;
+    height: 6px;
+}
+
+.arrow-down {
+    background-position: -337px -40px;
+    width: 10px;
+    height: 6px;
+}
+
+.hsbc-logo {
+    background-position: 0px -627px;
+    width: 127px;
+    height: 23px;
+}
+
+.now-logo {
+    background-position: -154px -627;
+    width: 72px;
+    height: 23px;
+}
+
+.popup-close {
+    background-position: -74px -120px;
+    width: 28px;
+    height: 28px;
+}
+
+.popup-close-active {
+    background-position: -105px -120px;
+    width: 28px;
+    height: 28px;
+}
+
+.right-button-search-normal {
+    background-position: 0px -120px;
+    width: 23px;
+    height: 23px;
+}
+
+.right-button-search-active {
+    background-position: -23px -120px;
+    width: 23px;
+    height: 23px;
+}
+
+.right-button-search-inactive {
+    background-position: -46px -120px;
+    width: 23px;
+    height: 23px;
+}
+
+.warning {
+    background-position: -286px -671px;
+    width: 23px;
+    height: 23px;
+}
+
+.warning-grey {
+    background-position: -327px -670px;
+    width: 23px;
+    height: 23px;
+}
+
+.grey-right-arrow {
+    background-position: -328px -280px;
+    width: 22px;
+    height: 22px;
+}
+
+.grey-down-arrow {
+    background-position: -328px -307px;
+    width: 22px;
+    height: 22px;
+}
+
+.ptrcimg {
+    display: none !important;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none !important;
+}
+
+body, html {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: #000;
+    text-align: center;
+}
+
+table {
+    width: auto;
+}
+
+.GBIHEADER1 {
+    width: 1000px;
+    background: #ffffff;
+    font-size: 11px;
+}
+
+#pthnavcontainer {
+    width: 1000px;
+    background: #ffffff;
+}
+
+#win0divPSPAGECONTAINER {
+    width: auto !important;
+    background: #ffffff;
+}
+
+#win0divPSCONTAINER {
+    width: 1000px;
+    overflow: hidden;
+    background: #ffffff;
+}
+
+#win0divPSPANELTABS {
+    width: 950px;
+}
+
+#pthnavcontainer {
+    text-align: left;
+}
+
+#ptpglts ul {
+    list-style-type: none;
+}
+
+#ptpglts {
+    margin-top: 25px;
+    width: 1000px;
+}
+
+.helpLink table, .feedbackLink table {
+    width: 100%;
+}
+
+.helpLink td {
+    padding-right: 15px;
+    text-align: right;
+}
+
+table, td, tr {
+    border: 0;
+    border-collapse: collapse;
+}
+
+#pthdr2links {
+    list-style-type: none;
+    display: block !important;
+    margin-top: 15px !important;
+    margin-right: 15px !important;
+    position: relative;
+    background: none !important;
+    font-size: 12px;
+    color: #000 !important;
+}
+
+#pttabpercontent {
+    list-style-type: none;
+    display: block !important;
+    margin-top: 5px !important;
+    margin-right: 10px !important;
+    position: relative;
+    width: 112px;
+    height: 27px;
+    font-size: 12px;
+    color: #000 !important;
+}
+
+#pthdr2links a, #pttabpercontent a {
+    color: #000 !important;
+    text-decoration: underline;
+}
+
+#pthdr2links a:hover, #pttabpercontent a:hover {
+    color: #db0011 !important;
+}
+
+body {
+    background: #e8e8e8 !important;
+}
+
+#ven_frontpage {
+    background: #fff;
+    text-align: center;
+}
+
+#manustable, #ven_secondary {
+    background: #ffffff !important;
+}
+
+body {
+    max-width: none;
+    width: 100%;
+    text-align: center;
+}
+
+.ven_wrap {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.ven_wrap > div + table {
+    float: left;
+    text-align: left !important;
+}
+
+.ui-accordion-header {
+    width: auto;
+}
+
+.ui-accordion-header + div {
+    width: auto;
+}
+
+#hsbc_open, #hsbc_closed, #hsbc_casesFooter {
+    width: 190px;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-width: 190px;
+    min-width: 0;
+}
+
+#hsbc_open .PSHYPERLINK, #hsbc_closed .PSHYPERLINK {
+    width: auto;
+}
+
+#hsbc_casesContainer {
+    width: 200px;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-width: 200px;
+    min-width: 0;
+}
+
+.ptpgltdim, .ptoverlay, .ptoverlayhide, .pthpli, .ptpgltsortable, .ptpgltfixed, .ptpgltlabel, .ptpgltlabeldrag, .ptpgltdroppable, .ptaddpglt {
+    zoom: 1;
+}
+
+#pglts, #ptcol1, #ptcol1addpglt, #ptcol2, #ptcol1addpglt2, #ptcol3, #ptcol1addpglt3 {
+    zoom: 1;
+}
+
+#ptpopupmask {
+    filter: alpha(opacity=75) !important;
+    background: #000 !important;
+}
+
+#pt_modalMask {
+    filter: alpha(opacity=75) !important;
+    background: #000 !important;
+}
+
+.pgltFixedPosition {
+    left: 0px !important;
+}
+
+#carousel_news {
+    width: 970px;
+    height: 260px;
+    overflow: hidden;
+    position: relative;
+    top: -4px;
+}
+
+#tabFallback {
+    width: 1000px;
+}
+
+#closeCarousel {
+    width: 30px;
+    height: 10px;
+    background: none;
+    float: right;
+    margin-right: 15px;
+    color: #000;
+    font-family: Verdana;
+    text-align: right;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 10px;
+    border: 2px solid #fff;
+}
+
+#win0divEO_PE_SRCH_INP_EPPSR_RESULTS, #win0divEO_PE_SRCH_INP_EPPSR_PORTALS {
+
+}
+
+#win0divEO_PE_SRCH_INP_EPPSR_SCOPENAMElbl {
+    width: 120px;
+}
+
+td.EPPTGTAGTEXT {
+    font-size: 12px !important;
+}
+
+#win0divHSBC_SUGGEST_VWGP\$0 {
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+#win0divHSBC_SUGGEST_VW\$0 {
+    margin-bottom: 15px;
+}
+
+#win0divHSBC_SUGGEST_VW\$0 .PSLEVEL1GRIDEVENROW, #win0divHSBC_SUGGEST_VW\$0 .PSLEVEL1GRIDODDROW {
+    background: none !important;
+}
+
+#win0divHSBC_SUGGEST_VW\$0, #win0divHSBC_SRCH_WRK_HSBC_FLT_GROUPBOX, #win0divHSBC_REL_SR_VW\$0 {
+    padding: 15px;
+    border: 1px solid #cccccc;
+    padding-bottom: 15px !important;
+    background: url(/cs/ps/cache/VEN_SHADE_FRA_1.gif) repeat-x 90% bottom !important;
+    zoom: 1;
+    margin-right: 15px;
+}
+
+#win0divHSBC_SUGGEST_VW\$0 .PSHYPERLINK a {
+    padding-left: 12px;
+    background: url(/cs/ps/cache/VEN_ARROWR_FRA_1.gif) no-repeat 2px left !important;
+}
+
+#win0divHSBC_SRCH_WRK_HSBC_FLT_GROUPBOX a {
+    border: none !important;
+}
+
+#win0divHSBC_SRCH_WRK_HSBC_FLT_GROUPBOX, #win0divHSBC_REL_SR_VW\$0 {
+    margin-bottom: 15px;
+}
+
+#win0divHSBC_REL_SR_VWGP\$0 {
+    padding-bottom: 15px;
+}
+
+.PSLEVEL1SCROLLAREABODY p {
+    padding-bottom: 20px;
+}
+
+#win0divHSBC_SRCH_WRK_HSBC_FLT_GROUPBOX {
+    margin-top: 15px;
+}
+
+#HSBC_SRCH_WRK_HSBC_FLT_CLEAR {
+    background: url(/cs/ps/cache/VEN_ARROWR_FRA_1.gif) no-repeat center left;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.searchSummaryShort {
+    height: 45px;
+    overflow: hidden;
+}
+
+.showMore {
+    background: url(/cs/ps/cache/VEN_ARROWR_FRA_1.gif) no-repeat center left;
+    padding-left: 10px;
+    text-decoration: underline;
+    color: #000;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 9pt;
+    margin-left: 10px;
+}
+
+.isHidden {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+#CUSTPAGE, #COPYURL {
+    display: none;
+}
+
+td.GBIHEADC3R1 form {
+    background: url(/cs/ps/cache/VEN_SEARCHBOX_FRA_1.png) no-repeat 99% center;
+    padding-top: 3px;
+}
+
+td.GBIHEADC3R1 input {
+    background: none;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+}
+
+.GBIHEADER1 a:hover {
+    text-decoration: underline;
+}
+
+#searchfield {
+    border: none;
+    background: none;
+    color: #ffffff;
+    width: 150px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+#myMenu {
+    margin-left: 15px;
+}
+
+#myMenu ul {
+    list-style-type: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#myMenu li {
+    display: inline;
+    background: url(/cs/ps/cache/VEN_DD_SEPARATOR_FRA_1.JPG) no-repeat left 0%;
+}
+
+#myMenu a {
+    color: #000000;
+    background-color: none;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 26px;
+}
+
+#dlb-close {
+    cursor: pointer;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-image: url(/cs/ps/cache/VEN_HSBC_DEFAULT_FRA_1.GIF);
+}
+
+.dlbCloseOff {
+    background-position: -74px -120px;
+}
+
+.dlbCloseOn {
+    background-position: -105px -120px;
+}
+
+.ui-accordion a {
+    text-decoration: none;
+    line-height: 12px;
+    background: url(/cs/ps/cache/VEN_ARROWR_FRA_1.gif) no-repeat 1px right;
+    padding-right: 12px;
+    font-size: 12px;
+    font-weight: 0;
+    line-height: 1.5em;
+}
+
+.ui-accordion h3 a {
+    font-size: 13px;
+    padding-right: 0;
+}
+
+.ui-accordion h3 {
+    margin: 0;
+}
+
+.ui-accordion div {
+    margin: 0;
+    height: auto;
+}
+
+.ui-corner-all {
+    background: url('/cs/ps/cache/VEN_PGLT_EXPAND_FRA_1.JPG') 100% center no-repeat;
+}
+
+.ui-accordion-header-active {
+    background: url('/cs/ps/cache/VEN_PGLT_COLLAPSE_FRA_1.JPG') 100% center no-repeat;
+}
+
+.ui-accordion .ui-accordion-content {
+    overflow: auto;
+}
+
+.ui-accordion h3 {
+    cursor: pointer;
+}
+
+.moreAssistance {
+    float: right;
+    display: block !important;
+    margin-top: 5px !important;
+    margin-right: 10px !important;
+    position: relative;
+    width: 200px;
+    height: 27px;
+}
+
+.raiseCase {
+    padding-right: 10px !important;
+    filter: alpha(opacity=100);
+}
+
+.dropDownMenu {
+    background: rgb(99, 100, 105);
+    width: 970px;
+    height: 260px;
+    color: #ffffff !important;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    display: none;
+    position: relative;
+    margin: 111px auto;
+    padding: 0;
+    border-bottom: 1px solid #000;
+}
+
+.dropDownMenu iframe {
+    margin: 15px;
+    width: 940px;
+    height: 230px;
+}
+
+.dropDownMenu h2 {
+    font-size: 18px;
+}
+
+.dropDownMenu table {
+    margin-left: 30px;
+    width: 200px;
+}
+
+.dropDownMenu a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 1.5em;
+}
+
+.dropDownMenu a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#ddMenuContainer {
+    position: absolute;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    z-index: 10001;
+    visibility: hidden;
+}
+
+.hsbc_drptPage_hidden {
+    display: none;
+}
+
+.hsbc_drpts_Pagination {
+    display: inline;
+    list-style: none;
+    clear: both;
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 3px;
+}
+
+.hsbc_drptPageSelector {
+    display: block;
+    float: left;
+    padding: 5px;
+    cursor: pointer;
+    margin: 1px;
+    border: 1px solid #black;
+    color: #666666;
+}
+
+.hsbc_drptPageSelector_Active {
+    background-color: #666666;
+    color: #ffffff;
+}
+
+.PTPAGELET#ADMN_HSBC_VENICE_E09_LIFE_EVEN {
+    border: #cccccc 1px solid !important;
+}
+
+.hsbc_eventSubItemLabel {
+    height: 50px;
+}
+
+.hsbc_carouselContainer {
+    width: 680px;
+    height: 150px;
+    position: relative;
+    overflow: hidden;
+}
+
+.hsbc_eventCarousel {
+    position: absolute;
+}
+
+.hsbc_eventPane {
+    position: absolute;
+    width: 680px;
+    padding-top: 5px;
+    padding-left: 70px;
+}
+
+.hsbc_eventItemContainer {
+    text-decoration: none;
+    width: 140px;
+    height: 170px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: inline-block;
+    vertical-align: top;
+    cursor: pointer;
+}
+
+.hsbc_eventItem {
+    height: 100px;
+    width: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+
+.hsbc_eventItemHover {
+    background-position: -100px 0px;
+}
+
+.hsbc_eventItemLabel {
+    cursor: pointer;
+    color: black;
+    float: left;
+    display: block;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    height: 70px;
+    width: 140px;
+    max-width: 140px;
+}
+
+.hsbc_carouselNavigation {
+    position: relative;
+
+    margin-right: 10px;
+    height: 30px;
+}
+
+.hsbc_carouselNavLR {
+    float: right;
+    list-style: none;
+    margin-top: 2px;
+}
+
+.hsbc_carouselPagination {
+    float: right;
+    list-style: none;
+    margin-top: 8px;
+}
+
+.hsbc_carouselScroll {
+    height: 26px;
+    width: 26px;
+    margin-left: 3px;
+    margin-right: 3px;
+    float: left;
+    cursor: pointer;
+}
+
+.hsbc_carouselPaneSelector {
+    float: left;
+    display: block;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+span.hsbc_caseItem a {
+    background: url(/cs/ps/cache/VEN_ARROWR_FRA_1.gif) no-repeat 3px left;
+    padding-left: 10px;
+}
+
+#hsbc_casesFooter {
+    margin-top: 10px;
+}
+
+.hsbc_caseSlider {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+td.PSINACTIVETAB, #filler {
+    background-image: url(/cs/ps/cache/VEN_TABINACTIVE_FRA_1.JPG) !important;
+}
+
+#filler {
+    height: 70px;
+    margin-top: 10px;
+}
+
+#hsbc_dyn_manager, #hsbc_dyn_employee {
+
+    background-image: url(/cs/ps/cache/VEN_GRADIENT_FRA_1.JPG);
+    line-height: 50px;
+    background-repeat: repeat-x;
+    background-position: center 0px;
+}
+
+#hsbc_dyn_manager a, #hsbc_dyn_employee a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 15px;
+    vertical-align: 20%;
+}
+
+.HSBC_FLOW_INACTIVE {
+    background: url(/cs/ps/cache/HSBC_FLOWARROWINACTIVE_FRA_1.JPG) no-repeat;
+
+    padding-top: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 10px;
+    width: 80px;
+    color: #000;
+    height: 50px;
+}
+
+.HSBC_FLOW_ACTIVE a {
+    background: url(/cs/ps/cache/HSBC_FLOWARROWACTIVE_FRA_1.JPG) no-repeat;
+    width: 80px;
+    color: #fff;
+    height: 50px;
+    padding-top: 5px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 10px;
+}
+
+td.PSACTIVETAB {
+    background: url(/cs/ps/cache/VEN_ACTIVETABBG_FRA_1.JPG) repeat-x !important;
+}
+
+td.PSINACTIVETAB, td.PSACTIVETAB {
+    text-align: center !important;
+    min-width: 70px;
+    width: auto !important;
+}
+
+.tabNav {
+    float: left;
+    visibility: hidden;
+}
+
+.tabNav td {
+    white-space: normal;
+}
+
+.PSINACTIVETAB a, .PSACTIVETAB a {
+    background: none;
+    margin: 20px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    line-height: 1em !important;
+    vertical-align: -60% !important;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.PSINACTIVETAB a:hover, .PSACTIVETAB a:hover {
+    background: none;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1em;
+    vertical-align: -60%;
+    color: #ffffff !important;
+    text-decoration: none;
+}
+
+.PSACTIVETAB a, .PSACTIVETAB a:hover {
+    color: #db0011 !important;
+}
+
+.tablastchild {
+    background-image: url(/cs/ps/cache/VEN_TABSEPARATOR_FRA_1.JPG);
+}
+
+#footer {
+    background: rgb(99, 100, 105);
+    width: 970px;
+    height: 50px;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+
+#footerContent {
+    width: 970px;
+    background: rgb(99, 100, 105);
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    padding-left: 15px;
+}
+
+#footerContent tr {
+    background: none;
+}
+
+#expandFooter, #callFooter {
+    cursor: pointer;
+}
+
+#footerContent li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#footerContent li a:visited {
+    color: #ffffff;
+}
+
+#footerContent li a:active {
+    background: #333333;
+}
+
+#footerContent li a:hover {
+    background: #333333;
+}
+
+#footerContent ul {
+    line-height: 1.5em;
+    margin-left: 32px;
+    padding-bottom: 40px;
+    margin-right: 15px;
+}
+
+#footerContent li.h2footer a {
+    color: #ffffff;
+    text-decoration: none;
+    background: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#footerContent li.h2footer a:hover {
+    text-decoration: underline;
+    background: none;
+}
+
+.labelFooterLeft {
+    float: left;
+    padding: 16px;
+    padding-left: 0px;
+    font-size: 16px;
+}
+
+.labelFooterRight {
+    float: right;
+    padding: 16px;
+    padding-left: 0px;
+    font-size: 16px;
+}
+
+.labelFooterLeft a, .labelFooterRight a {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.labelFooterLeft a:hover, .labelFooterRight a:hover {
+    font-size: 20px;
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+#footerContent li {
+    line-height: 1 !important;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#disclaimer {
+    font-family: Arial, sans-serif;
+    padding-top: 10px;
+    width: 960px;
+    background: #ffffff;
+    height: 50px;
+    font-size: 11px;
+    color: #6e6e6e;
+    text-align: left;
+    margin: 10px;
+    margin-left: 0px;
+    line-height: 1;
+}
+
+#disclaimer a {
+    color: #000000;
+    text-decoration: none;
+    font-style: 11px;
+}
+
+#disclaimer a:hover {
+    text-decoration: underline;
+    color: #db0011;
+}
+
+.hsbc_level0_Favourite {
+    margin-top: 3px;
+    background: url(/cs/ps/cache/HSBC_ICON_DOCUMENT_FRA_1.JPG) no-repeat top left;
+    padding-left: 15px;
+}
+
+.hsbc_level0_Folder {
+    margin-top: 3px;
+    background: url(/cs/ps/cache/HSBC_ICON_FOLDER_FRA_1.JPG) no-repeat top left;
+    padding-left: 15px;
+}
+
+.hsbc_level1_Favourite {
+    margin-left: 5px;
+}
+
+.hsbc_openCasesSlider, .hsbc_closedCasesSlider {
+    font-weight: bold;
+}
+
+.hsbc_closedCases {
+    display: none;
+}
+
+.hsbc_closedCases, .hsbc_openCases {
+    margin-left: 5px;
+}
+
+#hsbc_casesFooter {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#hsbc_closed, #hsbc_open {
+    margin-bottom: 10px;
+    background: url(/cs/ps/cache/VEN_PGLT_COLLAPSE_FRA_1.JPG) no-repeat 0px right;
+
+    cursor: pointer;
+}
+
+.isClosed {
+    background: url(/cs/ps/cache/VEN_PGLT_EXPAND_FRA_1.JPG) no-repeat 0px right !important;
+}
+
+.PSGROUPBOXWHO {
+    border: 1px solid #cccccc !important;
+    padding: 15px;
+}
+
+.PTPAGELETBODY a {
+    color: #000 !important;
+    display: inline;
+    line-height: 12px;
+    font-size: 12px;
+
+    padding: 0px;
+
+}
+
+.PTPAGELETBODY a:hover {
+    color: #db0011 !important;
+}
+
+.EOPP_SCSECTIONFOLDERLINK {
+    margin-top: 10px;
+}
+
+.PTPAGELETBODY a[name^="ICFirstAnchor_win"] {
+    background: none;
+    display: none;
+}
+
+.PTPAGELETBODY a[name^="ICLastAnchor_win"] {
+    background: none;
+    display: none;
+}
+
+.PTPAGELETBODY .PABOLDBLUETEXT {
+    color: #000;
+}
+
+.PTPAGELETBODY .PSHYPERLINK {
+    color: #000;
+    line-height: 12px !important;
+    text-decoration: underline;
+}
+
+td.PTPAGELETBODY {
+    padding-top: 0px;
+    border-top: none !important;
+}
+
+.EOPP_SCADDITIONALTEXT {
+    font-size: 12px;
+}
+
+.PAPAGETITLE {
+    color: #000000;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.PTPAGELETHEADER {
+    margin: 15px;
+
+}
+
+.PTPAGELETHEADER nobr {
+    font-family: bold 10pt Arial, Helvetica, sans-serif;
+}
+
+.PTPAGELETHEADER td {
+    padding-right: 0px !important;
+    font-family: bold 10pt Arial, Helvetica, sans-serif;
+    white-space: normal;
+}
+
+.PTPAGELETBODY h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.PTPAGELET {
+    border: 1px solid #cccccc;
+}
+
+.PTPAGELET td, .PTPAGELET tr {
+    background: #fff;
+}
+
+.PTPAGELETBODY {
+    padding: 0px 15px 20px 15px !important;
+    background: url(/cs/ps/cache/VEN_SHADE_FRA_1.gif) repeat-x center bottom !important;
+    zoom: 1;
+}
+
+.ptoverlay.ptoverlayhide {
+    border: none;
+}
+
+table.PTPAGELET {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.PAADDITIONALINSTRUCTIONS {
+    font-size: 12px;
+}
+
+.ptpgltlabel {
+    white-space: normal;
+}
+
+li.pthpli {
+    margin: 0 !important;
+    display: inline !important;
+}
+
+#PT_SC_PGT_MAIN_MENU_Data img {
+    width: 50%;
+}
+
+.PTPAGELETBODY td.EOPP_SCSECTIONFOLDER {
+    border: 0 !important;
+}
+
+.EOPP_SCSECTIONFOLDER {
+    padding: 5px !important;
+}
+
+.hsbc_trendingTopics {
+    font-size: 12px !important;
+}
+
+.PATEXT {
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+}
+
+.PATEXT a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 11px;
+}
+
+#hp_slideshow h1 {
+    font-size: 24px;
+}
+
+#hp_slideshow p {
+    padding: 15px;
+}
+
+#hp_slideshow h1 {
+    margin-left: 15px;
+}
+
+.PAPAGETITLE {
+    font-family: bold 10pt Arial, Helvetica, sans-serif;
+    color: #000 !important;
+    font-size: 16px;
+}
+
+a.PSHYPERLINK {
+    text-decoration: none !important;
+    color: #000000 !important;
+    font-size: 12px;
+
+}
+
+a.PSHYPERLINK:hover {
+    text-decoration: underline !important;
+    color: #db0011 !important;
+}
+
+h2.ptpgltlabel {
+    font-size: 16px;
+    color: #000;
+}
+
+.PABOLDBLUETEXT {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+a.PABOLDBLUETEXT {
+    font-size: 8pt !important;
+    font-weight: bold;
+    text-decoration: none !important;
+}
+
+.PSEDITBOX_DISPONLY {
+    font-size: 12px;
+}
+
+.EOPP_SCPAGEDESCRSECTION {
+    padding-bottom: 10px;
+}
+
+.hoverMenu table, .hoverMenu td, .hoverMenu tr {
+    background: none;
+}
+
+td.hoverMenuBody, .hoverMenuBody table, .hoverMenuBody td, .hoverMenuBody tr {
+    background: #fff;
+}
+
+.PTALPAGELEBODYDIV td.EOPP_SCSECTIONCONTENT {
+    border: 0;
+}
+
+.ptalPgltHeaderLabel {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000 !important;
+}
+
+.ptalPageletsDiv table.PTPAGELETHEADER {
+    min-width: 0;
+    width: 200px;
+}
+
+.ptalPgltAreaBorderTopMiddle {
+    text-align: left;
+    padding-left: 15px;
+}
+
+.ptalPgltAreaHeaderBar {
+    background: none !important;
+    border: none !important;
+}
+
+.ptalPgltAreaBorderTopMiddle {
+    background: none !important;
+    background: #fff !important;
+}
+
+body.ptalPgltAreaPage {
+    background-image: none !important;
+    background: #fff !important;
+}
+
+body.ptalPgltAreaPage .EOPP_SCSECTIONCONTENT a img {
+    width: 16px;
+}
+
+.ptalmorePagelets {
+    border: none !important;
+    background: #db0011 !important;
+}
+
+.ptalmorePagelets a {
+    color: #fff !important;
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.ptalmorePagelets img {
+    display: none;
+}
+
+.ptalPageletGroupTabPadding {
+    border: none !important;
+}
+
+.PTALPAGELEBODYDIV span {
+    font-size: 12px;
+}
+
+#ptalPgltHeaderLabel_ADMN_HSBC_VEN_HRAGENT_LINKS_HM {
+    font-size: 16px;
+}
+
+#ptalPgltHeaderLabel_HSBC_VENICE_E18_TRENDINGTOPICS {
+    font-size: 16px;
+}
+
+#ptalPgltHeaderLabel_HSBC_HRAGENT_EMP_INFO {
+    font-size: 16px;
+}
+
+#ptalPgltHeaderLabel_HSBC_HRAGENT_EMP_CASES {
+    font-size: 16px;
+}
+
+#ptalPgltHeaderLabel_HSBC_HRA_RELATED_CONTENT {
+    font-size: 16px;
+}
+
+#ptalPgltHeaderLabel_HSBC_HRA_RELATED_CLOUD {
+    font-size: 16px;
+}
+
+.ptalPageletGroupTab a {
+    background-image: none !important;
+    background: #850000;
+    color: #fff !important;
+    border-bottom: 1px solid #db0011 !important;
+}
+
+.ptalPageletGroupTab span {
+    background-image: none !important;
+    background: #850000;
+    color: #fff !important;
+}
+
+.ptalPageletGroupTab .selected a {
+    background-image: none;
+    background: #db0011 !important;
+}
+
+.ptalPageletGroupTab .selected span {
+    background-image: none;
+    background: #db0011;
+}
+
+.ptalPgltAreaGroupsBar {
+    postion: absolute;
+    top: 6px;
+}
+
+.PSLEVEL1GRIDODDROW, .PSLEVEL1GRID {
+    font-size: 12px;
+}
+
+.PSLEVEL1GRID td, .PSLEVEL1GRID th {
+    text-align: left !important;
+}
+
+td.ptalNoPadding {
+    width: auto !important;
+    text-align: left !important;
+}
+
+#pthnavcontainer * {
+    background: none;
+    color: #000;
+    max-width: 1000px !important;
+}
+
+#pthnavcontainer {
+    background: none !important;
+    position: absolute !important;
+    top: 128px;
+    width: 1000px !important;
+}
+
+.pthnavflyout.pthnavbarshow {
+    background: #ffffff !important;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.pthnavflyout.pthnavbarshow a:hover {
+    color: #db0011 !important;
+}
+
+#pthnavfavsep {
+    background: none !important;
+}
+
+#pthnavbc {
+    width: 900px !important;
+    position: relative !important;
+    left: -10px !important;
+}
+
+.pthnav LI {
+    float: left !important;
+}
+
+.pthbcdispinline a {
+    font-weight: bold !important;
+}
+
+.pthnavscroll a {
+    display: block;
+    line-height: 12px;
+}
+
+.pthnavscroll LI {
+    float: none !important;
+}
+
+.pthnavflyout.pthnavflyoutopen {
+    background: #ffffff !important;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.pthnavhiearchysep.pthbcdispinline {
+    color: #606060 !important;
+    font-weight: bold !important;
+}
+
+.pthnavcref {
+    background: url(/cs/ps/cache/EOPP_FN_SMALL_CONTENT_ICN_FRA_1.gif) no-repeat 10% center !important;
+    padding-left: 5px !important;
+}
+
+.pthnavfldr {
+    background: url(/cs/ps/cache/EOPP_FN_SMALL_FOLDER_ICN_FRA_1.gif) no-repeat 10% center !important;
+    padding-left: 5px !important;
+}
+
+#pthnavcontainer {
+    background: #EBEBEB !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+}
+
+#pthnavcontainer a {
+    color: #606060 !important;
+    font-weight: bold !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+}
+
+#hsbc_breadcrumbs {
+    font-weight: bold;
+    vertical-align: center;
+    height: 20px;
+    background: #ebebeb;
+    color: #606060;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hsbc_breadcrumbs a {
+    padding-left: 10px;
+    padding-right: 3px;
+    font-weight: bold;
+    text-decoration: none !important;
+    color: #606060 !important;
+}
+
+#hsbc_breadcrumbs {
+    width: 1000px;
+    position: relative;
+    top: -126px;
+    text-transform: capitalize;
+}
+
+.fixedMargin10 {
+    margin-top: 10px !important;
+}
+
+.bctext {
+    font-size: 12px !important;
+    font-weight: bold !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: #606060 !important;
+}
+
+#ptnav2tree {
+    background: #ffffff;
+}
+
+#ptnav2tree div {
+    display: none;
+}
+
+#win0divQRY_VIEWER_WRK_HTMLAREA, .PSQRYRESULTSHDR, .PSQRYRESULTSEVENROW, .PSQRYRESULTSODDROW, .PSQRYHYPERLINKD, .PSQRYHYPERLINK, .PSQRYRESULTSTITLE {
+    font-size: 12px;
+    color: #000;
+    font-family: Arial, sans-serif;
+}
+
+.PSQRYRESULTSEVENROW {
+    background: #F3F3F3;
+}
+
+.PSQRYRESULTSODDROW {
+    background: #E6E6E6;
+}
+
+.PSQRYRESULTSHDR {
+    background: #D9D9D9;
+}
+
+.PSQRYRESULTSHDR, .PSQRYRESULTSODDROW, .PSQRYRESULTSEVENROW {
+    border: 1px solid #fff;
+    padding: 5px;
+}
+
+.PSQRYRESULTSTITLE td {
+    padding-right: 15px;
+}
+
+#sideFix {
+    left: 0px;
+    display: block;
+    z-index: 500;
+}
+
+.fixed-position {
+    position: fixed;
+    *position: absolute;
+    *top: expression(((document.documentElement.scrollTop || document.body.scrollTop) + (!this.offsetHeight && 0) +200) + "px");
+}
+
+#sidebarSearch {
+    width: 300px;
+    height: 200px;
+    display: block;
+    position: absolute;
+    left: -260px;
+    top: 0px;
+    background: url(/cs/ps/cache/VEN_SIDEBARSEARCH_FRA_1.gif) no-repeat;
+}
+
+#searchInput {
+    background-image: url(/cs/ps/cache/HSBC_SIDESEARCH_FRA_1.png);
+    height: 30px;
+    width: 181px;
+}
+
+.searchHovered {
+    background-position: 0px -30px;
+}
+
+#searchInput input {
+    background: none;
+    border: none !important;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding-right: 5px;
+}
+
+#sidebarSearchInput {
+    padding-left: 5px;
+    width: 140px;
+}
+
+.searchcontainer p {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+.searchcontainer span {
+    font-style: italic;
+    font-size: 12px;
+}
+
+.searchcontainer h1 {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    padding-bottom: 5px;
+    padding-top: 15px;
+}
+
+#smallSideSearch {
+
+    background: url(/cs/ps/cache/HSBC_SEARCHSMALLB_FRA_1.gif) no-repeat;
+    bottom: 0px;
+
+    right: 0px;
+    height: 45px;
+    width: 45px;
+    cursor: pointer;
+    position: fixed;
+    *position: absolute;
+    *top: expression(((document.documentElement.scrollTop || document.body.scrollTop) + (!this.offsetHeight && 0)+document.getElementsByTagName('body')[0].clientHeight -45) + "px");
+    *left: expression(((document.documentElement.scrollLeft || document.body.scrollLeft) + (!this.offsetWidth && 0)+document.getElementsByTagName('body')[0].clientWidth -45) + "px");
+    z-index: 501;
+}
+
+#smallSideSearchPanel .searchcontainer {
+    padding-left: 30px;
+}
+
+#smallSideSearchPanel {
+    z-index: 500;
+
+    display: none;
+    background: url(/cs/ps/cache/HSBC_SEARCHSMALLP_FRA_1.gif) no-repeat !important;
+    bottom: 0px;
+    right: 0px !important;
+    height: 200px;
+    width: 300px;
+    position: fixed;
+    *position: absolute;
+    *top: expression(((document.documentElement.scrollTop || document.body.scrollTop) + (!this.offsetHeight && 0)+document.getElementsByTagName('body')[0].clientHeight -200) + "px");
+    *left: expression(((document.documentElement.scrollLeft || document.body.scrollLeft) + (!this.offsetWidth && 0)+document.getElementsByTagName('body')[0].clientWidth -300) + "px");
+}
+
+.searchcontainer {
+    padding-left: 65px;
+    width: 250px;
+}
+
+td {
+    border: none;
+}
+
+#pt_modalMask {
+    max-width: none !important;
+    width: 100% !important;
+}
+
+.tabNav {
+    margin-top: 20px;
+}
+
+body {
+    background: url(/cs/ps/cache/VEN_BODYGRAD_FRA_1.JPG) repeat-y center center #e8e8e8 !important;
+}
+
+body.EPPADMINBAR {
+    background: none !important;
+}
+
+.fixedWidth970 {
+    width: 970px !important;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#ptifrmtarget {
+    background: #ffffff !important;
+}
+
+table, div {
+    text-align: left;
+}
+
+.PSPAGE {
+    margin-left: 0px !important;
+    background-color: #fff;
+    margin: 0px;
+}
+
+#win0divPAGEBAR td {
+    width: auto !important;
+}
+
+#win0divPAGEBAR {
+    float: right;
+}
+
+#NEWWIN, #CUSTPAGE {
+    color: #000 !important;
+}
+
+#win0divPAGEBAR td {
+    color: #fff !important;
+}
+
+#win0divPAGEBAR .PSDROPDOWNLABEL, #win0divPAGEBAR .PSMULTILANG {
+    color: #000;
+}
+
+th {
+    color: #000 !important;
+}
+
+form[name="win0"] {
+    background: #ffffff;
+}
+
+.psform-3col {
+    width: auto !important;
+}
+
+#win0divEPPCM_PUB_WRK_EPPCM_HTML_SUMMARY .PSTEXT {
+    font-style: italic;
+}
+
+#EPPCM_CONTENT_EPPCM_TITLE.PSEDITBOX_DISPONLY {
+    width: 700px;
+    font-size: 21px;
+    font-weight: normal;
+}
+
+#EPPCM_VIEW_WRK_EPPCM_PAGE_TITLE.PSEDITBOX_DISPONLY {
+    width: 700px;
+    font-size: 21px;
+    font-weight: normal;
+}
+
+.PT_RTE_DISPLAYONLY {
+    padding-top: 15px;
+    overflow: hidden;
+}
+
+.PT_RTE_DISPLAYONLY .PT_RTE_DISPLAYONLY {
+    padding-top: 0px;
+    border-top: none;
+}
+
+.PT_RTE_DISPLAYONLY p {
+    font-size: 12px;
+    color: #000;
+    line-height: 15px;
+    margin: 15px 0px 15px 0px;
+}
+
+.PT_RTE_DISPLAYONLY ul {
+    margin-left: 15px;
+    list-style-type: none;
+    font-size: 12px;
+    color: #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.PT_RTE_DISPLAYONLY ul li {
+    padding-left: 12px;
+    background: url(/cs/ps/cache/VEN_ARROWR_FRA_1.gif) no-repeat 2px left;
+}
+
+.PT_RTE_DISPLAYONLY ol {
+    font-size: 12px;
+    color: #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.PT_RTE_DISPLAYONLY ol li {
+    margin-left: 25px;
+}
+
+.PT_RTE_DISPLAYONLY h1 {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    line-height: 26px;
+    padding: 15px 0px 15px 0px;
+}
+
+.PT_RTE_DISPLAYONLY h2 {
+    font-size: 20px;
+    color: #606060;
+    font-weight: bold;
+    line-height: 22px;
+    padding: 15px 0px 15px 15px;
+    font-style: italic;
+}
+
+.PT_RTE_DISPLAYONLY h3 {
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+    line-height: 16px;
+    padding: 10px 0px 15px 30px;
+}
+
+.PT_RTE_DISPLAYONLY h4 {
+    font-size: 12px;
+    color: #db0011;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 10px 0px 10px 45px;
+}
+
+.PT_RTE_DISPLAYONLY h5 {
+    font-size: 12px;
+    color: #000;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 5px 0px 5px 60px;
+    text-decoration: underline;
+}
+
+.PT_RTE_DISPLAYONLY h6 {
+    font-size: 12px;
+    color: #606060;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 5px 0px 5px 75px;
+    font-style: italic;
+}
+
+.PT_RTE_DISPLAYONLY a {
+    font-size: 12px;
+    color: #000;
+    text-decoration: underline;
+    line-height: 15px;
+}
+
+.PT_RTE_DISPLAYONLY a:visited {
+    color: #950000;
+}
+
+.PT_RTE_DISPLAYONLY a:hover {
+    color: #DB0011;
+}
+
+.PT_RTE_DISPLAYONLY table {
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.PT_RTE_DISPLAYONLY table {
+    border: 0;
+    border-collapse: collapse;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.PT_RTE_DISPLAYONLY table, .PT_RTE_DISPLAYONLY tr, .PT_RTE_DISPLAYONLY td, .PT_RTE_DISPLAYONLY th {
+    border: 1px solid #fff;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.PT_RTE_DISPLAYONLY th {
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+}
+
+.PT_RTE_DISPLAYONLY td {
+    padding: 10px;
+}
+
+.PT_RTE_DISPLAYONLY table tr {
+    background-color: #E6E6E6;
+}
+
+.hsbc_evenRow {
+    background-color: #F3F3F3;
+}
+
+.PT_RTE_DISPLAYONLY sub, .PT_RTE_DISPLAYONLY sup {
+    line-height: 17px;
+}
+
+.PT_RTE_DISPLAYONLY pre {
+    word-wrap: break-word;
+}
+
+.PT_RTE_DISPLAYONLY dl {
+    padding: 15px 0px 15px 0px;
+}
+
+.PT_RTE_DISPLAYONLY dl dt {
+    padding: 0px 0px 10px 0px;
+    text-decoration: underline;
+}
+
+.PT_RTE_DISPLAYONLY dl dd {
+    margin-left: 15px;
+}
+
+.PT_RTE_DISPLAYONLY blockquote {
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    color: #606060;
+    font-style: italic;
+    padding: 15px;
+    font-size: 16px;
+    font-family: Times New Roman, Arial;
+}
+
+.PT_RTE_DISPLAYONLY blockquote:first-letter {
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.PT_RTE_DISPLAYONLY .PATRANSACTIONTITLE {
+    color: #db0011;
+    border-bottom: 2px solid #000;
+}
+
+.PT_RTE_DISPLAYONLY .PAPAGETITLE {
+    font-size: 24px;
+    color: #000;
+    font-weight: normal;
+    line-height: 28px;
+}
+
+.PT_RTE_DISPLAYONLY .PSTEXT {
+    font-style: italic;
+}
+
+.PT_RTE_DISPLAYONLY hr {
+    padding: 15px 0px 15px 0px;
+    border-top: 1px dotted #606060;
+    height: 1px;
+    background-color: transparent;
+    width: 100%;
+}
+
+p {
+    font-size: 12px;
+}
+
+#win0div\$ICField0 span.EPPADMINBAR {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#win0div\$ICField0 {
+    padding-bottom: 15px;
+}
+
+#win0div\$ICField1 span.EPPADMINBAR {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#win0div\$ICField1 {
+    padding-bottom: 15px;
+}
+
+#win0divDERIVED_PTFP_PTFP_HTMLAREA {
+    right: 0px;
+    position: absolute;
+}
+
+#win0divEPPTG_SRCH_WRK_EPPTG_SRCH_PB {
+    padding: 15px;
+    padding-top: 0px;
+}
+
+#win0divEPPTG_SRCH_WRK_EPPTG_FEATURE {
+    padding-right: 15px;
+}
+
+#EO_PE_SRCH_WRK_EO_PE_PAGE_TITLE {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.vRCPageletGroupsDiv {
+    border-bottom: none;
+}
+
+.vRCPgltAreaGroupsBar {
+    background-color: none !important;
+    background: none !important;
+}
+
+.vRCPgltAreaBorderTopLeft.vRCPgltAreaResizeBar {
+    background: none !important;
+}
+
+.vRCPgltAreaBorderTopMiddle {
+    background-image: none !important;
+    background-color: rgb(99, 100, 105) !important;
+    border-top: 1px solid #000;
+}
+
+#ptPnlHeader {
+    color: #ffffff !important;
+}
+
+#win0divPORTAL_HPWRK_PORTAL_RETURN_HOME {
+    padding-bottom: 10px;
+}
+
+#EPPCM_PUB_WRK_EPPCM_TRANS_TITLE {
+    display: none;
+}
+
+#EPPCM_CONTENT_EPPCM_TITLE {
+
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.ptpglthdr {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+}
+
+a#ptalPgltAreaMorePagelets {
+    color: #000;
+}
+
+a#ptalPgltAreaMorePagelets:hover {
+    color: #db0011;
+}
+
+.ptalMorePageletsLinkdisabled {
+    color: #ccc;
+}
+
+#PTGRIDTAB a, #PTGRIDTAB a span {
+    display: block !important;
+    float: left;
+    border: none !important;
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.PSGRIDCOUNTER {
+    color: #000 !important;
+}
+
+.PSLEFTCORNER, .PSRIGHTCORNER {
+    background: none !important;
+}
+
+.PSLEVEL1GRIDLABEL {
+    background: none !important;
+    color: #000 !important;
+}
+
+.PSGRIDBOTTOMLINE {
+    height: 1px !important;
+}
+
+#win4divQUERYHEADING {
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+span.PSQRYRESULTSTITLE td {
+    font-size: 12px;
+}
+
+#errortype {
+    font-size: 12px;
+    font-weight: bold;
+    font-family;
+    Arial, sans-serif;
+}
+
+.SMALL {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    color: #000;
+}
+
+.SMALL a {
+    color: #000;
+}
+
+.SMALL a:hover {
+    color: #db0011;
+}
+
+.PABOLDBLUETEXT, .PAADDITIONALINSTRUCTIONS {
+    color: #000;
+}
+
+.EPPCMPUBSECTHEADER {
+    color: #000;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.hoverMenu.hoverMenu_hover {
+    border: none;
+    background: none;
+}
+
+.hoverMenuBody {
+    border: 1px solid #606060;
+}
+
+.EPPADMINBAR a:hover {
+    color: #db0011;
+    background: none;
+}
+
+.PSDROPDOWNLABEL {
+    font-size: 12px;
+}
+
+.PSBOTTOMLINE {
+    height: 1px;
+}
+
+.PSSRCHSUBTITLE, .PSSRCHGROUPBOXLABEL, .PSDROPDOWNLIST, .PSSRCHEDITBOXLABEL {
+    font-size: 12px;
+}
+
+.PSDROPDOWNLIST {
+    position: relative !important;
+    top: -2px;
+
+}
+
+.PSSRCHEDITBOXLABEL {
+    position: relative !important;
+    right: 1px !important;
+    top: 1px !important;
+}
+
+.PSSRCHTITLE {
+    font-size: 16px;
+}
+
+input.EPPADMINBAR {
+    border: 1px solid #000;
+}
+
+#PTSRCHRESULTS {
+    color: #000;
+    font-size: 12px;
+}
+
+.EOPP_SCCHILDCONTENTLINK, .EOPP_SCCHILDFOLDERLINK {
+    color: #000;
+    font-size: 12px;
+}
+
+.EOPP_SCSECTIONCONTENTLINK, .EOPP_SCSECTIONFOLDERLINK {
+    text-decoration: underline;
+    color: #000;
+    font-size: 14px;
+}
+
+.EOPP_SCPAGEDESCRSECTION {
+    color: #000;
+    font-size: 12px;
+}
+
+.EOPP_SCPAGETITLESECTION {
+    color: #000;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+a.EPPTGTAGTEXT {
+    font-size: 12px;
+    color: #000;
+    font-family: Arial, sans-serif;
+    text-decoration: underline !important;
+}
+
+a.EPPTGTAGTEXT:hover {
+    font-size: 12px;
+    color: #db0011 !important;
+    text-decoration: underline !important;
+    font-family: Arial, sans-serif;
+}
+
+.EOPP_SCCHILDCONTENTLINK {
+    font-size: 12px;
+}
+
+#win0divEPPCM_VIEW_WRK_EPPCM_HTML_SUMMARY .PSTEXT {
+    font-style: italic;
+}
+
+#EPPCM_VIEW_WRK_EPPCM_PAGE_TITLE, #EPPCM_HDR_WRK_EPPCM_PAGE_TITLE, #EPPCM_HDR_WRK_EPPCM_TRANS_TITLE {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#win0divEPPCM_VIEW_WRK_EPPCM_PAGE_TITLE {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input[name=EPPCM_CONTENT_EPPCM_TITLE] {
+    font-size: 12px;
+}
+
+.PSMULTILANG {
+    font-size: 12px;
+    color: #000;
+    font-family: Arial, sans-serif;
+    background: rgb(175, 255, 175);
+}
+
+textarea.EPPADMINBAR {
+    border: 1px solid #000;
+}
+
+.PAPAGEINSTRUCTIONS {
+    font-size: 12px;
+}
+
+.EOPP_SCMORELINK {
+    color: #000;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.EOPP_SCBREADCRUMBSECTION a {
+    color: #000;
+    font-size: 12px;
+}
+
+.EOPP_SCBREADCRUMBSECTION a:hover {
+    color: #db0011;
+}
+
+.PSSRCHINSTRUCTIONS {
+    color: #000;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+span.EOPP_SCADDITIONALTEXT {
+    width: 240px;
+    float: left;
+}
+
+.PSCHECKBOX, .PSRADIOBUTTON, .PSEDITBOXLABEL, a.EPPTGCLOUD {
+    color: #000;
+    font-size: 12px;
+}
+
+.PSSRCHRESULTSWBO, .PSSRCHRESULTSHDR, .PSSRCHRESULTSODDROW a, .PSSRCHRESULTSEVENROW a, .PSSRCHRESULTSHYPERLINKD {
+    color: #000000;
+    font-size: 12px;
+}
+
+.PSSRCHRESULTSEVENROW {
+    background: #F3F3F3;
+    padding: 3px;
+    text-align: left;
+}
+
+.PSSRCHRESULTSODDROW {
+    background: #E6E6E6;
+    padding: 3px;
+    text-align: left;
+}
+
+td.EOPP_SCCHILDCONTENTLINK {
+    padding-left: 15px;
+}
+
+span.PSHYPERLINK {
+    font-weight: bold;
+}
+
+.PSHYPERLINK {
+    font-size: 12px;
+}
+
+a.PSHYPERLINK {
+    text-decoration: underline !important;
+}
+
+#win0divEPPCM_HDR_WRK_EPPCM_SEARCH_LINK {
+    text-decoration: underline;
+}
+
+#win0divPSPANELTABLINKS {
+    font-size: 12px;
+}
+
+#win0divPAGECONTAINER {
+    float: left;
+}
+
+.PSDISABLED {
+    font-size: 12px;
+}
+
+a.PSHYPERLINKYELLOWBKGRD {
+    color: #000;
+    font-size: 12px;
+}
+
+#PSTAB span {
+    white-space: nowrap;
+    display: block;
+    float: left;
+    margin
+}
+
+#PSTAB a {
+    display: block;
+    float: none;
+}
+
+#tblpstabs {
+    float: left;
+    margin-top: 15px;
+}
+
+#win0divPSPANELTABS {
+    float: left;
+}
+
+td.EOPP_SCBREADCRUMBSECTION {
+    padding-bottom: 10px;
+}
+
+div#PSTAB td a {
+    background-image: none;
+    background: #850000;
+}
+
+div#PSTAB td a span {
+    background-image: none;
+    background: #850000;
+}
+
+div#PSTAB td#selected a {
+    background-image: none;
+    background: #db0011;
+    padding-top: 4px;
+}
+
+div#PSTAB td#selected a span {
+    background-image: none;
+    background: #db0011;
+    padding-top: 2px;
+    margin-bottom: 3px;
+}
+
+div#PTGRIDTAB td a {
+    background-image: none;
+    background: #850000;
+}
+
+div#PTGRIDTAB td a span {
+    background-image: none;
+    background: #850000;
+}
+
+div#PTGRIDTAB td#selected a {
+    background-image: none;
+    background: #db0011;
+    padding-top: 4px;
+}
+
+div#PTGRIDTAB td#selected a span {
+    background-image: none;
+    background: #db0011;
+    padding-top: 2px;
+    margin-bottom: 3px;
+}
+
+.EPPADMINBARWBO .EPPADMINBAR tr, .EPPADMINBARWBO .EPPADMINBAR td {
+    padding: 5px;
+}
+
+.EPPADMINBAR {
+    border-bottom: 1px solid #C3C3C3;
+}
+
+.EPPADMINBAR a, .EPPADMINBAR span, span.EPPADMINBAR, a.EPPADMINBAR {
+    border: none;
+}
+
+#win0divPSPANELTABLINKS {
+    margin-bottom: 30px;
+}
+
+#EPPTG_SRCH_WRK_EPPTG_FEATURE {
+    margin-left: 10px;
+}
+
+#EPPTG_SRCH_WRK_EPPTG_SRCH_LBL {
+    margin-right: 5px;
+}
+
+#win0divEPPTG_TAG_WRK_EPPTG_HTMLTAGS div {
+    text-align: left;
+    font-size: 12px;
+}
+
+#win0divEPPTG_TAG_WRK_EPPTG_HTMLTAGS > div {
+    width: 220px !important;
+}
+
+#win0divPSTOOLBAR {
+    margin-bottom: 20px;
+}
+
+.EPPTGTAG {
+    width: 200px !important;
+}
+
+#hsbc_tag_cloud {
+    text-align: left !important;
+    width: 200px !important;
+    font-size: 12px;
+}
+
+a.EPPTGCLOUD {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    line-height: 1.2em;
+    vertical-align: bottom;
+    text-decoration: underline !important;
+}
+
+a.EPPTGCLOUD:hover {
+    background: none !important;
+    color: #db0011 !important;
+    text-decoration: underline !important;
+    line-height: 1.2em;
+    vertical-align: bottom;
+}
+
+a.PSPUSHBUTTON {
+    background: none !important;
+}
+
+.PSPUSHBUTTON .EPPADMINBAR, .PSPUSHBUTTONTBOK, .PSPUSHBUTTON, .PSPUSHBUTTONTB, .PSPUSHBUTTONDISABLED {
+    font-size: 11px !important;
+    cursor: pointer;
+    color: #000;
+}
+
+.PSPUSHBUTTON input, .PSPUSHBUTTONTB input, .PSPUSHBUTTONDISABLED input {
+    padding-left: 0px !important;
+    border: none;
+    height: 21px;
+    line-height: 11px;
+    cursor: pointer;
+    font-weight: normal !important;
+}
+
+.PSPUSHBUTTON input {
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+}
+
+.PSPUSHBUTTON, .PSPUSHBUTTONTB {
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+    max-height: 21px;
+    height: 21px;
+    line-height: 21px;
+}
+
+.PSPUSHBUTTON span, .PSPUSHBUTTONTB span {
+    background: transparent url(/cs/ps/cache/VEN_PGBUTTON_FRA_1.JPG) no-repeat right top !important;
+    margin-right: 5px;
+    height: 21px;
+    line-height: 21px;
+}
+
+.PSPUSHBUTTON input, .PSPUSHBUTTONTB input {
+    background: transparent url(/cs/ps/cache/VEN_PGBUTTONLEFT_FRA_1.JPG) no-repeat left top !important;
+    height: 21px;
+    line-height: 21px;
+}
+
+.ISHOVERED span {
+    background: transparent url(/cs/ps/cache/VEN_PGBUTTONHOVER_FRA_1.JPG) no-repeat right top !important;
+    margin-right: 5px;
+    height: 21px;
+    line-height: 21px;
+}
+
+.ISHOVERED input {
+    background: transparent url(/cs/ps/cache/VEN_PGBUTTONLEFTHOVER_FRA_1.JPG) no-repeat left top !important;
+    height: 21px;
+    line-height: 21px;
+    color: #fff !important;
+}
+
+.PSPUSHBUTTON.ISHOVERED .EPPADMINBAR, .PSPUSHBUTTONTBOK.ISHOVERED {
+    color: #fff !important;
+}
+
+.PSPUSHBUTTONDISABLED span {
+    background: transparent url(/cs/ps/cache/VEN_PGBUTTONHOVER_FRA_1.JPG) no-repeat right top !important;
+    margin-right: 5px;
+    height: 21px;
+    line-height: 21px;
+}
+
+.PSPUSHBUTTONDISABLED input {
+    background: transparent url(/cs/ps/cache/VEN_PGBUTTONLEFTHOVER_FRA_1.JPG) no-repeat left top !important;
+    height: 21px;
+    line-height: 21px;
+}
+
+#win0divSEARCHADV {
+    width: auto !important;
+}
+
+#MOdivpopupFrame {
+    width: 320px !important;
+}
+
+#MOpopupContainer td, #HelppopupContainer td {
+    border: none !important;
+}
+
+#MOpopupContainer td.MOBGImageLeft {
+    border-left: 1px solid #82a7bd !important;
+}
+
+#MOpopupContainer td.MOBGImageTop {
+    border-top: 1px solid #82a7bd !important;
+}
+
+#hsbc_dyn_employee {
+    float: left;
+}
+
+#hp_workflow td {
+    width: auto;
+}
+
+#win1divEPPTG_TAG_WRK_EPPTG_HTML_TAGS div div {
+    text-align: left;
+    width: 200px;
+}
+
+#HSBC_HRA_RELATED_CLOUD_Data td {
+    width: auto;
+}
+
+#ptpglthdrimg_HSBC_HRA_RELATED_CLOUD {
+    display: none;
+}
+
+#pthdr2links {
+    width: 200px !important;
+    position: relative !important;
+    top: -15px;
+    right: -15px !important;
+}
+
+#ptpopuptitlebar {
+    background-image: none !important;
+    background: #db0011 !important;
+}
+
+#ptpopupcontainer {
+    border: 1px solid #000 !important;
+}
+
+.PSMODALHEADER {
+    background-image: none !important;
+    background: #db0011 !important;
+}
+
+h1.PSSRCHACTION {
+    font-size: 16px;
+}
+
+.PSMODALCLOSE {
+    cursor: pointer;
+}
+
+#topTools {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+#HELP {
+    font-size: 11px;
+    color: #fff !important;
+    margin-right: 15px;
+    text-decoration: none !important;
+}
+
+#HELP:hover {
+    text-decoration: underline !important;
+}
+
+.ptPnlHeader {
+    background: none;
+}
+
+#win0divHSBC_DOC_DETAILS\$0 {
+    border: 1px solid #e6e6e6;
+    padding: 15px;
+    width: 280px;
+    max-width: 280px;
+    min-width: 0;
+}
+
+#win0divEPPCM_CONTENT_EPPCM_SOURCElbl {
+    padding-top: 1px;
+}
+
+.vRCPgltAreaBorderTopMiddle {
+    background-color: none !important;
+    background: none !important;
+    border-top: none;
+}
+
+.vRCPgltAreaHeader {
+    display: none;
+}
+
+.ptalmorePagelets {
+
+}
+
+#SRelatedContent {
+    padding-right: 15px;
+    padding-top: 0px !important;
+}
+
+.rcPage .ptalPageletsDiv {
+    width: 100% !important;
+    margin-top: 15px !important;
+}
+
+.rcPage .ptpglthdr {
+    padding: none;
+}
+
+.rcPage .ptpnlpglthdr {
+    padding: 15px;
+}
+
+.rcPge #ptsrc_newwin_0 {
+    display: none;
+}
+
+.rcPage body {
+    overflow: hidden;
+}
+
+#EPPSP_POLL_WRK_EO_PE_MSGTEXTLONG2 {
+    width: 180px;
+}
+
+textarea#EPPSP_POLL_WRK_EO_PE_SR_COMMENTS {
+    width: 180px !important;
+}
+
+.hsbc_starRating, .hsbc_starRatingActive, .hsbc_starRatingPreClick {
+
+    background: url(/cs/ps/cache/HSBC_RATINGSTAR_FRA_1.png) no-repeat !important;
+    width: 13px !important;
+    height: 12px !important;
+}
+
+#ACE_HSBC_DOC_DETAILS\$0, #ACE_HSBC_DOC_DETAILS\$1, #ACE_HSBC_DOC_DETAILS\$2 {
+    min-width: 0;
+    max-width: 250px;
+    width: 250px;
+}
+
+.hsbc_starRating {
+    background-position: -13px 0px !important;
+}
+
+.hsbc_starRating.hsbc_starRatingActive {
+    background-position: -26px 0px !important;
+}
+
+.rcPage .ptalmorePagelets {
+    width: 50% !important;
+    position: relative !important;
+    background: none !important;
+}
+
+.rcPage #ptalMorePageletsbutton {
+    text-align: right !important;
+    padding: 15px;
+}
+
+.rcPage .ptalmorePagelets a {
+    color: #db0011 !important;
+}
+
+.rcPage iframe {
+    height: auto !important;
+}
+
+#SRelatedContent {
+    height: 750px !important;
+}
+
+.PTALPAGELETBODYRESIZEBAR {
+    display: none;
+    visibility: hidden;
+}
+
+.PT_RTE_DISPLAYONLY {
+    width: 700px !important;
+}
+
+#ptcxmcollexpdiv {
+    display: none;
+}
+
+.vRCPgltAreaFrameDiv {
+    margin-top: 25px;
+}
+
+.rcPage .PTPAGELET {
+    border-right: 0px !important;
+    border-left: 0px !important;
+    border-bottom: 0px !important;
+}
+
+.rcPage .PTPAGELETBODY {
+    border-right: 1px solid #cccccc !important;
+    border-left: 1px solid #cccccc !important;
+    border-bottom: 1px solid #cccccc !important;
+}
+
+.rcPage .ptpnlpglthdr {
+    border-right: 1px solid #cccccc !important;
+    border-left: 1px solid #cccccc !important;
+}
+
+#ptrc_actions > a {
+    display: none;
+}
+
+.pglt-nobottom {
+    padding-left: 0px !important;
+    background: none !important;
+}
+
+body.PSSRCHPAGE {
+    background: #ffffff !important;
+}
+
+#win0divPSPANELTABS {
+    background: #ffffff;
+}
+
+body[tabIndex='-1'] {
+    background: none !important;
+    background-color: #ffffff !important;
+}
+
+.auto-width {
+    width: auto !important;
+}
+
+.PTPAGELETHEADER .PTPGLTDIM {
+    visibility: hidden !important;
+    display: none !important;
+    width: 1px;
+    height: 1px;
+}
+
+body.ptalPgltAreaPage {
+    text-align: left !important;
+    overflow-y: scroll !important;
+}
+
+body.ptalPgltAreaPage #ptpglts {
+    margin-top: 15x;
+    width: 80%;
+}
+
+body.ptalPgltAreaPage .PTPAGELET .PTALPAGELEBODYDIV {
+    width: 100% !important;
+}
+
+body.ptalPgltAreaPage .PTPAGELET .ptalPgltHeaderLabel {
+    width: 250px;
+}
+
+body.ptalPgltAreaPage .PTPAGELET .PTPAGELETHEADER a {
+    padding-right: 3px !important;
+}
+
+body.ptalPgltAreaPage #ptalMorePageletsbutton {
+    width: 50px;
+}
+
+body.ptalPgltAreaPage .ptalmorePagelets {
+    background-color: none !important;
+    position: relative !important;
+    padding: 15px;
+}
+
+#ptalPgltDropDown_HSBC_VENICE_E18_TRENDINGTOPICS {
+    display: none;
+}
+
+#ptalPgltDropDown_ADMN_HSBC_VEN_HRAGENT_LINKS_HM {
+    display: none;
+}
+
+#ptalPgltDropDown_HSBC_HRAGENT_EMP_INFO {
+    display: none;
+}
+
+#ptalPgltDropDown_HSBC_HRAGENT_EMP_CASES {
+    display: none;
+}
+
+#ptalPgltDropDown_HSBC_HRA_RELATED_CONTENT {
+    display: none;
+}
+
+#ptalPgltDropDown_HSBC_HRA_RELATED_CLOUD {
+    display: none;
+}
+
+#ptalPgltShow_HSBC_HRA_RELATED_CONTENT {
+    display: none;
+}
+
+#ptalPgltShow_HSBC_HRA_RELATED_CLOUD {
+    display: none;
+}
+
+#ptalPgltShow_HSBC_HRAGENT_EMP_CASES {
+    display: none;
+}
+
+#ptalPgltShow_HSBC_HRAGENT_EMP_INFO {
+    display: none;
+}
+
+#pt_dropdownicon_ADMN_HSBC_EMPL_POLICY_HMPG {
+    display: none;
+}
+
+#pt_dropdownicon_ADMN_HSBC_EMPL_NEWS_HMPG {
+    display: none;
+}
+
+#pt_dropdownicon_ADMN_HSBC_EMPL_FAQ_HMPG {
+    display: none;
+}
+
+#pt_dropdownicon_ADMN_HSBC_EMPL_LINKS_HMPG {
+    display: none;
+}
+
+#pt_dropdownicon_ADMN_HSBC_MNGR_POLICY_HMPG {
+    display: none;
+}
+
+#pt_dropdownicon_ADMN_HSBC_MNGR_SUPPORT_HMPG {
+    display: none;
+}
+
+#pt_dropdownicon_ADMN_HSBC_MNGR_FAQ_HMPG {
+    display: none;
+}
+
+#pt_dropdownicon_ADMN_HSBC_MNGR_LINKS_HMPG {
+    display: none;
+}
+
+#ptalPgltReload_HSBC_VENICE_E18_TRENDINGTOPICS {
+    display: block;
+}
+
+#ptpgltdiv_ADMN_HSBC_VEN_HRAGENT_LINKS_HM {
+    width: 21px;
+    height: 16px;
+
+}
+
+#ptalPgltShow_ADMN_HSBC_VEN_HRAGENT_LINKS_HM {
+    display: none;
+}
+
+#ptalPgltShow_HSBC_VENICE_E18_TRENDINGTOPICS {
+    display: none;
+}
+
+.ptalPageletGroupTab .selected {
+    background-color: #db0011 !important;
+    width: 50px;
+    height: 20px;
+}
+
+.ptalPageletGroupTab #ptalPgTab_GROUP1 {
+    background-color: #850000;
+    width: 50px;
+    height: 20px;
+}
+
+.ptalPageletGroupTab #ptalPgTab_GROUP2 {
+    background-color: #850000;
+    width: 50px;
+    height: 20px;
+}
+
+.ptalPageletGroupTab #ptalPgTab_GROUP3 {
+    background-color: #850000;
+    width: 70px;
+    height: 20px;
+}
+
+.ptalPageletGroupTab #ptalPgTab_GROUP4 {
+    background-color: #850000;
+    width: 70px;
+    height: 20px;
+}
+
+.ptalPageletGroupTab div {
+    width: 50px;
+}
+
+.ptalPageletGroupTab A {
+    border-bottom: #db0011 0px solid !important;
+}
+
+.ptalPageletGroupTab a#ptalPg_GROUP1 {
+    position: relative;
+    left: 8px;
+    text-decoration: none;
+    top: 2px;
+}
+
+.ptalPageletGroupTab a#ptalPg_GROUP2 {
+    position: relative;
+    left: 14px;
+    text-decoration: none;
+    top: 2px;
+}
+
+.ptalPageletGroupTab a#ptalPg_GROUP3 {
+    position: relative;
+    left: 18px;
+    text-decoration: none;
+    top: 2px;
+}
+
+.ptalPageletGroupTab a#ptalPg_GROUP4 {
+    position: relative;
+    left: 18px;
+    text-decoration: none;
+    top: 2px;
+}
+
+#ptalPgltAreaShow {
+    position: absolute;
+    top: 450px;
+    left: -6px;
+}
+
+#ptalPgltAreaHide {
+    display: block !important;
+    position: absolute;
+    top: 450px;
+    left: -8px;
+
+}
+
+#ptalPgltAreaHideImg {
+    width: 21px;
+}
+
+#ptalPgltAreaShowIcon {
+    width: 21px;
+}
+
+#ptpgltdiv_HSBC_VENICE_E18_TRENDINGTOPICS {
+    height: 15px ! importnat;
+}
+
+#DERIVED_CLONE_CLASSID_LBL > SPAN {
+    font-weight: bold !important;
+}
+
+#pt_dropdownicon_HSBC_VENICE_E09_LIFEEVENTS {
+    display: none;
+}
+
+#pt_dropdownicon_HSBC_VENICE_E10_BUSINESS_EVENT {
+    display: none;
+}
+
+.vRCPgltAreaResizeBar {
+    border-right: medium none !important;
+}
+
+#ptalPgltReload_HSBC_VENICE_E18_TRENDINGTOPICS {
+    display: block !important;
+    height: 20px;
+
+}
+
+#ptalPgltReload_HSBC_HRAGENT_EMP_CASES {
+    display: block !important;
+    height: 20px;
+
+}
+
+#ptalPgltReload_HSBC_HRAGENT_EMP_INFO {
+    display: block !important;
+    height: 20px;
+
+}
+
+#ptalPgltReload_HSBC_HRA_RELATED_CONTENT {
+    display: block !important;
+    height: 20px;
+
+}
+
+#ptalPgltHeader_ADMN_HSBC_VEN_HRAGENT_LINKS_HM {
+    border-bottom: none;
+}
+
+#ptalPgltHeader_HSBC_VENICE_E18_TRENDINGTOPICS {
+    border-bottom: none;
+}
+
+#ptpgltbody_HSBC_VENICE_E11_DRPTS a {
+    padding-right: 10px;
+}
+
+#ptifrmsbarcollexp {
+    display: none;
+}
+
+#ptppscappnavtbl {
+    left: 0px;
+}
+
+.hrDirectImage {
+    background-image: url('/cs/ps/cache/HSBC_FEEDBACK_FRA_18.JPG') !important;
+    width = 30px;
+!important;
+    height = 30px !important;
+    position: relative;
+    right: 50px;
+    top: -10px;
+    display: none;
+}
+
+#myMenu a#m1 {
+    background-image: url('/cs/ps/cache/HSBC_HRDIRECT_IMAGE_FRA_18.JPG') !important;
+    position: relative;
+    padding-bottom: 20px;
+    padding-top: 18px;
+    color: white !important;
+    font-size: 0px;
+    top: -10px;
+    padding-right: 116px;
+}
+

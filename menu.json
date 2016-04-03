@@ -1,0 +1,133 @@
+{  
+   "menus":[  
+      {  
+         "id":"searchItem_id_01",
+         "title":"Aide à la domiciliation bancaire - acme EASY",
+         "href":"javascript: lien('acme_EASY')"
+      },
+      {  
+      	"id":"searchItem_id_02",
+         "title":"Assurance Vie",
+         "href":"javascript: lien('PLACEMENTS_ASS')"
+      },
+      {  
+      	"id":"searchItem_id_03",
+         "title":"Assurances",
+         "href":"http://localhost:8383/MagicSearchDemo/index.html#"
+      },
+      {  
+      	"id":"searchItem_id_03",
+         "title":"Bourse et OPC",
+         "href":"javascript: lien('BOURSE_INV')"
+      },
+      {  
+      	"id":"searchItem_id_04",
+         "title":"Commande de chéquier",
+         "href":"javascript: lien('COMPTES_CHQ')"
+      },
+      {  
+      	"id":"searchItem_id_05",
+         "title":"Comptes de tiers",
+         "href":"javascript: lien('OPTIONS_TIE')"
+      },
+      {  
+      	"id":"searchItem_id_06",
+         "title":"Comptes et Cartes",
+         "href":"http://localhost:8383/MagicSearchDemo/index.html#"
+      },
+      {  
+      	"id":"searchItem_id_07",
+         "title":"Contact",
+         "href":"https://www.hsbc.fr/"
+      },
+      {  
+      	"id":"searchItem_id_08",
+         "title":"Effectuer un virement",
+         "href":"javascript: lien('COMPTES_SNAV2_VIR')"
+      },
+      {  
+      	"id":"searchItem_id_09",
+         "title":"Gérer ses bénéficiaires",
+         "href":"javascript: lien('AJOUT_IBAN')"
+      },
+      {  
+      	"id":"searchItem_id_10",
+         "title":"Historique des opérations",
+         "href":"javascript: lien('COMPTES_CPT')"
+      },
+      {  
+      	"id":"searchItem_id_11",
+         "title":"Historique des virements",
+         "href":"javascript: lien('COMPTES_SNAV2_VEX')"
+      },
+      {  
+      	"id":"searchItem_id_12",
+         "title":"Impression IBAN",
+         "href":"javascript: lien('COMPTES_RIB')"
+      },
+      {  
+      	"id":"searchItem_id_13",
+         "title":"Me...gicSearchDemo/index.html#"
+      },
+      {  
+      	"id":"searchItem_id_14",
+         "title":"Relevés",
+         "href":"javascript: lien('E_RELEVES_BP')"
+      },
+      {  
+      	"id":"searchItem_id_15",
+         "title":"SCPI",
+         "href":"http://localhost:8383/cgi-bin/emcgi_PM3?sessionid=BB6BA0B54C170B0CE6254050D4CBD428C826552125F2B5999818203DC68707C7"
+      },
+      {  
+      	"id":"searchItem_id_16",
+         "title":"Souscriptions",
+         "href":"javascript: lien('SOUSC_VAD')"
+      },
+      {  
+      	"id":"searchItem_id_17",
+         "title":"Synthèse",
+         "href":"javascript: lien('COMPTES_PAN')"
+      },
+      {  
+      	"id":"searchItem_id_18",
+         "title":"Tout savoir sur acme Secure Key",
+         "href":"javascript: lien('SEC_KEY_TOUT_SAVOIR')"
+      },
+      {  
+      	"id":"searchItem_id_19",
+         "title":"Virements",
+         "href":"http://localhost:8383/MagicSearchDemo/index.html#"
+      },
+      {  
+      	"id":"searchItem_id_20",
+         "title":"Virements en cours",
+         "href":"javascript: lien('COMPTES_SNAV2_VAT')"
+      },
+      {  
+      	"id":"searchItem_id_21",
+         "title":"acme Advance",
+         "href":"javascript: lien('PG_ADVANCE')"
+      },
+      {  
+      	"id":"searchItem_id_22",
+         "title":"acme Garantie Habitation",
+         "href":"javascript: lien('CONSULTATION_MRH')"
+      },
+      {  
+      	"id":"searchItem_id_23",
+         "title":"acme Protection Avenir",
+         "href":"javascript: lien('FICHE_AIG')"
+      },
+      {  
+      	"id":"searchItem_id_24",
+         "title":"acme Secure Key",
+         "href":"http://localhost:8383/MagicSearchDemo/index.html#"
+      },
+      {  
+      	"id":"searchItem_id_25",
+         "title":"Épargne",
+         "href":"http://localhost:8383/MagicSearchDemo/index.html#"
+      }
+   ]
+}

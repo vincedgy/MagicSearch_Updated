@@ -1,0 +1,15 @@
+{  
+   "suggestions":[  
+      {  
+         "id":"suggestItem_id_01",
+         "title":"suggestion XXXX",
+         "href":"javascript: lien('acme_EASY')"
+      },
+      {  
+      	"id":"suggestItem_id_02",
+         "title":"Suggestion YYYY",
+         "href":"javascript: lien('PLACEMENTS_ASS')"
+      }
+      
+   ]
+}

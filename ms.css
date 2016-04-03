@@ -1,0 +1,152 @@
+/**
+ Main container : must be hidden
+ */
+
+#ms-container > * {
+    positition: absolute;
+}
+
+#ms-container {
+    position: fixed;
+    display: block;
+    /* */
+    /* float: left; */
+    top:30%;
+    left:-260px;
+    /* */
+    width: 300px;
+    height: 200px;
+    /* */
+    z-index:9999;
+    /* */
+    border-radius: 4px;
+    border: solid 2px white;
+    box-shadow: 1px 1px 1px gray;
+    /* */
+    margin:8px 8px 5px 5px;
+    /* */
+    background: url("VEN_SIDEBARSEARCH_FRA_1.gif");
+    /* */
+    font: 18px Arial, Helvetica, Consolas;
+
+}
+
+#ms-inner-left-pannel h1 {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+#ms-inner-left-pannel {
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* */
+    top:0px;
+    width: 80%;
+    height: 100%;
+    float: left;
+    left:0;
+    /* */
+    /* background-color: red; */
+    /* */
+}
+
+#ms-searchInput-div {
+    display:block;
+    height:30px;
+    width:181px;
+    background: url("HSBC_SIDESEARCH_FRA_1.png") 0 0;
+    background-repeat: repeat-y;
+    top:40px;
+    left:40px;
+}
+
+#ms-searchInput-div:hover {
+    height:30px;
+    width:181px;
+    background: url("HSBC_SIDESEARCH_FRA_1.png") 0 30px;
+}
+
+#ms-searchInput-input {
+    position:absolute;
+    border:none;
+    /*left:8px;*/
+    margin-left: 10px;
+    top:52px;
+    width: 130px;
+    height: 14px;
+    color: darkred;
+}
+
+#ms-searchInput-input:focus,
+#ms-searchInput-input:active {
+    outline: none;
+}
+
+#ms-searchInput-btn {
+    position:absolute;
+    top:46px;
+    left:160px;
+    width: 32px;
+    height: 28px;
+    background: none;
+    border: hidden;
+}
+
+#ms-searchInput-btn:hover {
+    background: transparent;
+}
+
+#ms-inner-bottom-pannel {
+    position:absolute;
+    width: 80%;
+    height: 60px;
+    bottom:0;
+    z-index: -1;
+}
+
+#ms-lib-invite {
+    position: absolute;
+    ont-weight: bolder;
+    color:white;
+    font: 14px Arial, Helvetica, Consolas;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#ms-outter-right-pannel {
+    position: absolute;
+    /* */
+    top:0;
+    right:0;
+    width: 44px;
+    height: 100%;
+    float: right;
+    /*
+    border-left: solid 3px lightcoral;*/
+    /* */
+    /* background-color: red; */
+}
+
+#ms-outter-right-pannel:hover {
+    cursor: pointer;
+    background-color: white;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+    
+}
+
+#ms-container{
+    -webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;    
+}
+
+#ms-container:hover {
+-webkit-transform:translate(260px,0px);
+-moz-transform:translate(260px,0px);
+-o-transform:translate(260px,0px);
+-transform:translate(260px,0px);    
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="magic-search.js.css" type="text/css"/>
+    <link rel="stylesheet" href="ms.css" type="text/css"/>
+
+
+    <title>MagicSearch test page</title>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script> window.jQuery || document.write('<script src="./lib/jquery-min.js">\x3C/script>')</script>
+
+    <script type="text/javascript">
+
+        function lien(url) {
+            window.alert("Simulate... going to :" + url);
+        }
+
+    </script>
+    <script src="magic-search.js" type="text/javascript"></script>
+</head>
+<body>
+
+<h1>"Magic Search" test Page</h1>
+
+<p>Please wait a few seconds... the magic search button "?" will appear in the right up corner !</p>
+<p>The following classical menu, will be accessible through a handy dyna-search input field to show the direct access
+    you're looking for</p>
+
+<!--</form>-->
+<div id="magic-search" data-ref-menu="div_menu"></div>
+
+<h4> This is a plain boring menu from PIB :</h4>
+<div id="div_menu">
+    <ul id="menu">
+        <li id="o_CPT" class="active"><a href="#" class="active">Comptes et Cartes</a>
+            <ul style="display: block;">
+                <li><a id="i_PAN" href="https://www.hsbc.fr" class="active">Contact</a></li>
+
+
+                <li><a id="i_PAN" href="javascript: lien('COMPTES_PAN')" class="active">Synthèse</a></li>
+                <li><a id="i_CPT" href="javascript: lien('COMPTES_CPT')">Historique des opérations</a></li>
+                <li><a id="i_REL" href="javascript: lien('E_RELEVES_BP')">Relevés</a></li>
+                <li><a id="i_CHQ" href="javascript: lien('COMPTES_CHQ')">Commande de chéquier</a></li>
+                <li><a id="VAM_MenuSOUSC" href="javascript: lien('COMPTES_SNAV1_OPP')" class="VAM_slot">Opposition
+                    carte</a></li>
+                <li><a id="i_TIE" href="javascript: lien('OPTIONS_TIE')">Comptes de tiers</a></li>
+                <li><a id="i_RIB" href="javascript: lien('COMPTES_RIB')">Impression IBAN</a></li>
+            </ul>
+        </li>
+        <li id="VAM_MenuMSG" class="VAM_slot"><a href="javascript: lien('MESS_SECU')">Messagerie</a></li>
+        <li id="o_VIR"><a href="#">Virements</a>
+            <ul style="display: none;">
+                <li><a id="i_VIR" href="javascript: lien('COMPTES_SNAV2_VIR')">Effectuer un virement</a></li>
+                <li><a id="i_IBAN" href="javascript: lien('AJOUT_IBAN')">Gérer ses bénéficiaires</a></li>
+                <li><a id="i_VAT" href="javascript: lien('COMPTES_SNAV2_VAT')">Virements en cours</a></li>
+                <li><a id="i_VEX" href="javascript: lien('COMPTES_SNAV2_VEX')">Historique des virements</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Épargne</a>
+            <ul style="display: none;">
+                <li>
+                    <a href="/cgi-bin/emcgi_PM3?sessionid=BB6BA0B54C170B0CBA175B40F4F7140828A2C8B1F6D07EB66A32059FE0F6D91C">Mon
+                        Livret A</a></li>
+                <li><a href="https://epargnant.ere.acme.fr" target="_blank">Plan Épargne Entreprise</a></li>
+            </ul>
+        </li>
+        <li id="o_BOU"><a href="javascript: lien('BOURSE_INV')">Bourse et OPC</a></li>
+        <li id="o_AVIE"><a href="javascript: lien('PLACEMENTS_ASS')">Assurance Vie</a></li>
+        <li><a id="o_SCPI"
+               href="/cgi-bin/emcgi_PM3?sessionid=BB6BA0B54C170B0CE6254050D4CBD428C826552125F2B5999818203DC68707C7">SCPI</a>
+        </li>
+        <li><a href="#">Assurances</a>
+            <ul style="display: none;">
+                <li><a href="javascript: lien('CONSULTATION_MRH')">acme Garantie Habitation</a></li>
+                <li><a href="javascript: lien('FICHE_AIG')">acme Protection Avenir</a></li>
+            </ul>
+        </li>
+        <li id="o_CRE"><a href="#">Prêts et Emprunts</a>
+            <ul style="display: none;">
+                <li><a id="i_CRI" href="javascript: lien('CREDITS_CRE')">Prêt immobilier</a></li>
+                <li><a id="i_CRP" href="javascript: lien('CREDITS_CRE2')">Prêt confiance</a></li>
+            </ul>
+        </li>
+        <li id="o_SOUSC"><a href="javascript: lien('SOUSC_VAD')">Souscriptions</a></li>
+        <li id="o_SRV"><a href="#">Mes informations</a>
+            <ul style="display: none;">
+                <li><a id="i_COOR" href="javascript: lien('PARAM')">Mettre à jour mes données</a></li>
+                <li><a id="i_LANG" href="javascript: lien('LANGUE')">Modifier la langue du site</a></li>
+                <li><a id="i_ALE" href="javascript: lien('OPTIONS_ALE_PAR')">Mes alertes</a></li>
+                <li><a id="i_FORM" href="javascript: lien('FORMULAIRE')">Mes formulaires</a></li>
+                <li><a href="javascript: lien('acme_EASY')">Aide à la domiciliation bancaire - acme EASY</a></li>
+            </ul>
+        </li>
+        <li><a href="javascript: lien('PG_ADVANCE')">acme Advance</a></li>
+        <li id="o_SECK" style="border-bottom: 1px solid #CCCCCC"><a href="#">acme Secure Key</a>
+            <ul style="display: none;">
+                <li><a id="i_PASS" href="javascript: lien('SEC_KEY_MODIFIER_CODE_ACCES')">Modifier mes codes d'accès</a>
+                </li>
+                <li><a id="i_QST" href="javascript: lien('SEC_KEY_TOUT_SAVOIR')">Tout savoir sur acme Secure Key</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+</body>
+</html>
